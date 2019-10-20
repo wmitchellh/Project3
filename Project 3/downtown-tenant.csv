@@ -1,0 +1,264 @@
+tenant_name;category_of_use;street_name;address_number;downtown_district;date_opened;date_closed;years_in_business;date_updated;independent_v_chain;website;naics_code;address;zipcode
+Somethin' Else;Retail;West Franklin Street;318.0;West;2009-11-01;2013-12-01 00:00:00;4.08493150685;2015-09-22;Independent;;;318 West Franklin Street;35.9115179, -79.0606675
+Johnny T-shirt;Retail;East Franklin Street;128.0;East;1983-01-01;;34.0520547945;2016-02-04;Independent;;;128 East Franklin Street;35.9132267, -79.0545808
+Bub O'Malley's;Bar;East Rosemary Street;157.0;East;1987-04-01;;29.802739726;2015-07-30;Independent;;;157 East Rosemary Street;35.9152247, -79.0540321
+Top of the Hill Great Room;Event Space;East Franklin Street;100.0;East;2010-01-01;;7.03287671233;2015-07-28;Independent;;;100 East Franklin Street;35.9129612, -79.0553089
+High Life Smoke Shop;Service;East Franklin Street;137.0;East;2016-08-01;;0.446575342466;2016-11-07;Independent;highlifesmokes.com;;137 East Franklin Street;35.9139617, -79.0545033
+Tony Hall and Associates;Service;West Rosemary Street;311.0;Central;1986-01-01;;31.0493150685;2016-03-30;Independent;;;311 West Rosemary Street;35.9126002, -79.0595407
+Lime Fresh Mexican Grill;Restaurant;West Franklin Street;140.0;Central;2013-04-10;2015-11-05 00:00:00;2.5726027397299998;2015-11-06;Chain;;;140 West Franklin Street;35.912793, -79.0575945
+Moe's Southwest Grill;Restaurant;West Franklin Street;110.0;Central;2015-11-10;;1.17260273973;2016-02-04;Chain;;;110 West Franklin Street;35.9131982, -79.0565789
+Northside District;Restaurant;West Rosemary Street;403.0;West;2015-10-12;;1.25205479452;2015-10-14;Independent;;;403 West Rosemary Street;35.9114429, -79.0625272
+Lantern;Restaurant;West Franklin Street;421.0;West;2002-01-01;;15.0383561644;2015-11-06;Independent;;;421 West Franklin Street;35.910443, -79.062233
+Fitzgerald's Irish Pub;Restaurant;West Franklin Street;206.0;Central;2013-04-15;2016-01-04 00:00:00;2.72328767123;2016-01-19;Chain;;;206 West Franklin Street;35.9123709, -79.0588829
+Chapel Hill Underground;Bar;East Rosemary Street;157.5;East;2012-09-19;2016-02-01 00:00:00;3.3698630137;2016-06-20;Independent;;;157.5 East Rosemary Street;35.9152247, -79.0540321
+Cuban Revolution;Restaurant;West Franklin Street;401.0;West;2016-12-02;;0.109589041096;2016-12-13;Independent;;;401 West Franklin Street;35.9110638, -79.0605245
+Ben & Jerry's;Restaurant;West Franklin Street;102.0;Central;2000-01-01;;17.0410958904;2016-02-04;Chain;;;102 West Franklin Street;35.9132266, -79.0561369
+Fedora;Retail;East Franklin Street;151.0;East;2014-06-01;;2.6164383561599998;2016-02-04;Independent;;;151 East Franklin Street;35.9139706, -79.0541075
+Mina's Grill;Restaurant;West Franklin Street;403.0;West;2014-04-01;2015-06-01 00:00:00;1.16712328767;2015-09-03;Independent;;;403 West Franklin Street;35.9110034, -79.0605443
+Joseph's Hairstyling;Service;North Columbia Street;205.0;Central;2000-01-01;;17.0410958904;2015-07-17;Independent;;;205 North Columbia Street;35.915751, -79.057965
+CVS;Service;East Franklin Street;137.0;East;2013-11-01;;3.19726027397;2016-03-15;Chain;;;137 East Franklin Street;35.9139617, -79.0545033
+Crepe Traditions;Restaurant;West Franklin Street;140.0;Central;2015-09-19;;1.31506849315;2015-11-11;Independent;www.crepetraditions.com;;140 West Franklin Street;35.912793, -79.0575945
+Franklin Street Yoga;Service;West Franklin Street;431.0;West;2007-01-01;;10.0356164384;2015-11-11;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+Benny Cappella's;Restaurant;East Franklin Street;122.0;East;2016-03-25;;0.8;2016-04-19;Chain;www.bennysva.com/BennyCappellas;;122 East Franklin Street;35.9131573, -79.0547841
+Chapel Hill Florist;Retail;West Franklin Street;200.0;Central;1992-01-01;;25.0465753425;2016-03-30;Independent;;;200 West Franklin Street;35.9123562, -79.0583233
+Bevello Clothing;Retail;East Franklin Street;142.0;East;2011-07-01;;5.53698630137;2016-03-01;Chain;;;142 East Franklin Street;35.9133956, -79.054177
+Hair Cuttery;Service;West Franklin Street;306.0;West;1997-01-01;2010-01-01 00:00:00;13.0082191781;2015-07-17;Independent;;;306 West Franklin Street;35.912013, -79.0600363
+Passport Motors;Service;West Franklin Street;608.0;West;1993-01-01;;24.0438356164;2016-01-07;Independent;;;608 West Franklin Street;35.909662, -79.0648338
+Papa Johns;Restaurant;West Franklin Street;607.0;West;2000-01-01;;17.0410958904;2016-01-07;Chain;;;607 West Franklin Street;35.9094771, -79.0645499
+Vespa Restaurant;Restaurant;West Franklin Street;306.0;West;2000-01-01;;17.0410958904;2016-09-07;Independent;;;306 West Franklin Street;35.912013, -79.0600363
+Wells Fargo;Service;East Franklin Street;165.0;East;2010-01-01;;7.03287671233;2016-01-07;Chain;;;165 East Franklin Street;35.9142884, -79.0536817
+Sotheby's Realty;Service;West Franklin Street;140.0;Central;;;;2016-11-18;Chain;;;140 West Franklin Street;35.912793, -79.0575945
+Bikram Yoga;Service;West Rosemary Street;601.0;West;2014-04-01;2015-12-30 00:00:00;1.74794520548;2016-02-04;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Ackland Art Museum;Cultural Destination;South Columbia Street;101.0;East;1958-01-01;;59.0684931507;2016-03-30;Independent;;;101 South Columbia Street;35.9127264, -79.0555436
+Sugarland;Restaurant;East Franklin Street;140.0;East;2007-08-01;;9.45479452055;2016-02-04;Independent;;;140 East Franklin Street;35.9135201, -79.0543512
+The Strowd;Bar;East Franklin Street;159.0;East;2015-03-25;;1.80273972603;2016-02-04;Independent;;;159 East Franklin Street;35.9141513, -79.0538817
+Beer Study;Bar;North Graham Street;106.0;West;2012-11-27;;4.12602739726;2015-08-12;Independent;;;106 North Graham Street;35.9105474, -79.0642914
+Jones Funeral Home;Service;South Graham Street;112.0;West;1945-01-01;;72.0767123288;2016-01-07;Independent;;;112 South Graham Street;35.9091043, -79.0641536
+The Shrunken Head;Retail;East Franklin Street;155.0;East;1974-01-01;;43.0575342466;2016-09-07;Independent;;;155 East Franklin Street;35.9140505, -79.0540058
+Uptown Beauty Salon;Service;West Rosemary Street;400.0;West;2011-01-01;;6.03287671233;2016-01-07;Independent;;;400 West Rosemary Street;35.9118459, -79.0627142
+Moshi Moshi;Service;West Franklin Street;416.0;West;2004-01-01;;13.0383561644;2016-01-07;Independent;;;416 West Franklin Street;35.9113157, -79.0611653
+Topo Distillery;Cultural Destination;West Franklin Street;505.0;West;2013-01-01;;4.0301369863;2016-01-20;Independent;;;505 West Franklin Street;35.9094733, -79.0635935
+Local Liquids Vape Shop;Service;West Rosemary Street;400.0;West;2016-05-01;;0.698630136986;2016-11-07;Independent;local-liquids.com;;400 West Rosemary Street;35.9118459, -79.0627142
+Top of the Hill;Restaurant;East Franklin Street;100.0;East;1995-01-01;;22.0438356164;2016-09-07;Independent;thetopofthehill.com;;100 East Franklin Street;35.9129612, -79.0553089
+Tomato Jake's;Restaurant;East Franklin Street;163.0;East;2012-03-01;2012-12-19 00:00:00;0.802739726027;2015-08-12;Chain;;;163 East Franklin Street;35.9142612, -79.0537452
+Underground Printing;Retail;East Franklin Street;133.0;East;2012-09-01;;4.36438356164;2016-09-07;Chain;;;133 East Franklin Street;35.9138036, -79.0547013
+Zog's Pool Hall;Bar;Henderson Street;108.5;East;1995-01-01;;22.0438356164;2016-02-04;Independent;;;108.5 Henderson Street;35.9147965, -79.0528982
+Xenia;Retail;West Franklin Street;422.0;West;2016-02-01;2016-04-28 00:00:00;0.238356164384;2016-06-20;Independent;xeniachapelhill.com;;422 West Franklin Street;35.9112521, -79.0613756
+Goldies Grille;Restaurant;East Franklin Street;137.0;East;2003-01-01;2008-01-01 00:00:00;5.00273972603;2015-08-12;Independent;;;137 East Franklin Street;35.9139617, -79.0545033
+Hummus Café;Restaurant;East Franklin Street;169.0;East;2013-08-01;2015-10-30 00:00:00;2.24657534247;2015-12-11;Independent;;;169 East Franklin Street;35.9142821, -79.0535403
+Greenbridge Sales Office;Service;West Rosemary Street;601.0;West;2013-01-01;2015-06-01 00:00:00;2.41369863014;2015-08-19;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Mei Asian;Restaurant;East Franklin Street;143.0;East;2012-10-09;2015-06-01 00:00:00;2.64383561644;2015-08-12;Independent;;;143 East Franklin Street;35.9139627, -79.0543046
+Jeffery West General Dentistry;Service;West Rosemary Street;601.0;West;2014-01-01;;3.0301369863;2016-01-07;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Who's Next Barber Shop;Service;East Franklin Street;128.0;East;2009-01-01;;8.03287671233;2016-01-07;Independent;;;128 East Franklin Street;35.9132267, -79.0545808
+Bandido's Mexican Café;Restaurant;East Franklin Street;159.5;East;1995-01-01;;22.0438356164;2016-02-04;Independent;;;159.5 East Franklin Street;35.9141513, -79.0538817
+Smoke Rings;Retail;West Franklin Street;418.0;West;2011-01-01;;6.03287671233;2015-08-12;Independent;;;418 West Franklin Street;35.9113366, -79.061308
+The Standard;Restaurant;West Rosemary Street;403.0;West;2011-12-01;2014-01-01 00:00:00;2.08767123288;2016-01-20;Independent;;;403 West Rosemary Street;35.9114429, -79.0625272
+Brown's Paint and Hardware;Retail;West Franklin Street;420.0;West;1966-01-01;;51.0630136986;2016-01-07;Independent;;;420 West Franklin Street;35.9113457, -79.061335
+Knotts Funeral Home;Service;North Graham Street;113.0;West;1950-01-01;;67.0739726027;2016-01-07;Independent;;;113 North Graham Street;35.9103832, -79.064743
+Gentlemen's Corner;Retail;West Franklin Street;140.0;Central;2014-04-15;;2.74520547945;2015-11-06;Chain;;;140 West Franklin Street;35.912793, -79.0575945
+Princeton Review;Service;East Franklin Street;149.0;East;2010-01-01;;7.03287671233;2016-09-07;Chain;;;149 East Franklin Street;35.9140295, -79.0542028
+Waffle House;Restaurant;East Franklin Street;127.0;East;2013-11-01;;3.19726027397;2016-02-04;Chain;;;127 East Franklin Street;35.9138106, -79.054864
+Back Door Records;Retail;East Franklin Street;137.0;East;2000-01-01;2015-07-02 00:00:00;15.5095890411;2015-08-12;Independent;;;137 East Franklin Street;35.9139617, -79.0545033
+Bank of America;Service;East Franklin Street;137.0;East;2000-01-01;2011-01-01 00:00:00;11.0082191781;2015-07-22;Chain;;;137 East Franklin Street;35.9139617, -79.0545033
+University PC;Service;East Franklin Street;128.0;East;2015-11-24;2016-03-01 00:00:00;0.268493150685;2016-05-31;Chain;;;128 East Franklin Street;35.9132267, -79.0545808
+The Deep End;Bar;East Franklin Street;201.0;East;2009-01-01;2015-06-01 00:00:00;6.41643835616;2015-08-12;Independent;;;201 East Franklin Street;35.9145697, -79.0528396
+Classic Fashions;Retail;East Franklin Street;171.0;East;1995-01-01;;22.0438356164;2016-03-30;Independent;;;171 East Franklin Street;35.9143467, -79.0535396
+KLW Yoga;Service;West Rosemary Street;601.0;West;2016-03-01;2016-07-07 00:00:00;0.350684931507;2016-12-07;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Sup Dogs;Restaurant;East Franklin Street;107.0;East;2014-06-01;;2.6164383561599998;2016-02-04;Independent;;;107 East Franklin Street;35.9135933, -79.055474
+Dead Mule Club;Bar;West Franklin Street;303.0;West;1994-08-01;;22.4630136986;2015-11-06;Independent;;;303 West Franklin Street;35.911266, -79.059704
+The Library;Bar;East Franklin Street;120.0;East;2002-01-01;;15.0383561644;2015-10-09;Independent;;;120 East Franklin Street;35.9131478, -79.0548774
+Smoothie King;Restaurant;East Franklin Street;115.0;East;2016-02-05;;0.934246575342;2016-02-19;Chain;;;115 East Franklin Street;35.91362, -79.0552405
+Carolina Coffee Shop;Restaurant;East Franklin Street;138.0;East;1922-01-01;;95.0931506849;2016-02-04;Independent;;;138 East Franklin Street;35.913361, -79.054283
+Yogurt Pump;Restaurant;West Franklin Street;106.0;Central;1982-01-01;;35.0520547945;2015-11-11;Independent;;;106 West Franklin Street;35.9132505, -79.0563515
+Teen Center;Service;East Franklin Street;179.0;East;1985-01-01;;32.0493150685;2016-09-07;Independent;;;179 East Franklin Street;35.9144158, -79.0532029
+Uniquities;Retail;West Franklin Street;452.0;West;1992-01-01;;25.0465753425;2015-11-06;Independent;www.uniquities.com;;452 West Franklin Street;35.9108239, -79.0625613
+Ascension Tattoos;Service;West Franklin Street;405.75;West;2013-01-01;;4.0301369863;2016-01-07;Independent;;;405.75 West Franklin Street;35.9109798, -79.0607288
+Estetica Silvia;Service;North Graham Street;104.0;West;2011-01-01;;6.03287671233;2016-01-07;Independent;;;104 North Graham Street;35.9108299, -79.0650441
+Asia Café;Restaurant;East Franklin Street;118.0;East;2000-01-01;;17.0410958904;2016-09-07;Independent;;;118 East Franklin Street;35.9131394, -79.0549742
+Recovery Room;Restaurant;Henderson Street;108.0;East;2008-01-01;2015-07-01 00:00:00;7.50136986301;2015-08-27;Independent;;;108 Henderson Street;35.9147965, -79.0528982
+Nationwide Insurance;Service;West Rosemary Street;400.0;West;2012-01-01;;5.03287671233;2016-01-07;Chain;;;400 West Rosemary Street;35.9118459, -79.0627142
+Tarheel Telecom;Retail;North Graham Street;109.0;West;2006-01-01;2014-12-01 00:00:00;8.92054794521;2016-01-07;Independent;;;109 North Graham Street;35.9102049, -79.0647099
+Italian Pizzeria III;Restaurant;West Franklin Street;508.0;West;1985-06-01;;31.6356164384;2015-11-06;Independent;;;508 West Franklin Street;35.9102414, -79.064002
+Crook's Corner;Restaurant;West Franklin Street;610.0;West;1982-01-01;;35.0520547945;2015-11-06;Independent;;;610 West Franklin Street;35.9098609, -79.0649665
+University Baptist Church;Church;South Columbia Street;100.0;Central;1854-12-31;;162.136986301;2016-09-07;Independent;;;100 South Columbia Street;35.9125835, -79.0558572
+Franklin Street Yoga Boutique;Retail;West Franklin Street;431.0;West;2016-11-14;;0.158904109589;2016-11-21;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+West End Wine Bar;Bar;West Franklin Street;450.0;West;2005-01-01;;12.0356164384;2016-01-07;Independent;;;450 West Franklin Street;35.9108434, -79.0624793
+Tar Heel Taxi;Service;North Graham Street;110.0;West;1994-01-01;;23.0438356164;2016-01-07;Independent;;;110 North Graham Street;35.9107662, -79.0644545
+Bski's;Restaurant;East Franklin Street;147.0;East;2005-09-01;;11.3698630137;2015-08-12;Independent;;;147 East Franklin Street;35.9139677, -79.0542536
+Chapel Hill Cleaners;Service;West Franklin Street;422.0;West;1994-01-01;;23.0438356164;2016-01-07;Independent;;;422 West Franklin Street;35.9112521, -79.0613756
+411 West Italian Café;Restaurant;West Franklin Street;411.0;West;1990-01-01;;27.0465753425;2016-03-30;Independent;;;411 West Franklin Street;35.9106161, -79.0615118
+Goodfellow's;Bar;East Franklin Street;149.5;East;2000-01-01;;17.0410958904;2016-02-04;Independent;;;149.5 East Franklin Street;35.9140295, -79.0542028
+Zinaz;Retail;West Rosemary Street;400.0;West;2009-01-01;2011-07-01 00:00:00;2.49589041096;2015-09-22;Independent;;;400 West Rosemary Street;35.9118459, -79.0627142
+The Cave;Cultural Destination;West Franklin Street;452.5;West;1968-01-01;;49.0630136986;2016-01-20;Independent;;;452.5 West Franklin Street;35.9108239, -79.0625613
+Old Chicago;Restaurant;West Franklin Street;140.0;Central;2014-03-17;;2.82465753425;2015-11-06;Chain;;;140 West Franklin Street;35.912793, -79.0575945
+Jimmy John's;Restaurant;West Franklin Street;306.0;West;2001-01-01;;16.0383561644;2015-11-06;Chain;;;306 West Franklin Street;35.912013, -79.0600363
+Good Bones Vintage;Retail;West Rosemary Street;406.0;West;2008-01-01;2012-12-31 00:00:00;5.00273972603;2015-09-22;Independent;;;406 West Rosemary Street;35.9116556, -79.0631153
+Multiverse Gamers;Retail;East Franklin Street;128.0;East;2013-01-01;2015-06-01 00:00:00;2.41369863014;2015-07-22;Independent;;;128 East Franklin Street;35.9132267, -79.0545808
+Kaplan Educational Center;Service;West Rosemary Street;308.0;Central;2002-01-01;;15.0383561644;2016-01-07;Chain;;;308 West Rosemary Street;35.9131538, -79.0596843
+Moss;Service;West Rosemary Street;400.0;West;2010-01-01;;7.03287671233;2016-02-04;Independent;;;400 West Rosemary Street;35.9118459, -79.0627142
+Kidzu;Cultural Destination;East Franklin Street;105.0;East;2006-01-01;2011-01-01 00:00:00;5.00273972603;2016-01-20;Independent;;;105 East Franklin Street;35.9135739, -79.055577
+Top This!;Restaurant;East Franklin Street;161.0;East;2013-01-01;2014-12-30 00:00:00;1.99452054795;2015-09-03;Independent;;;161 East Franklin Street;35.9141728, -79.0538136
+Chapel Hill Tire;Service;West Franklin Street;464.0;West;1953-01-01;;64.0712328767;2016-02-04;Independent;;;464 West Franklin Street;35.9104236, -79.0627941
+Chipotle;Restaurant;West Franklin Street;301.0;West;2007-06-01;;9.62191780822;2015-11-06;Chain;;;301 West Franklin Street;35.9113993, -79.0595834
+to the woods salon;Service;West Rosemary Street;601.0;West;2014-03-01;;2.86849315068;2015-07-14;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Syd's Hair Shop;Service;North Graham Street;106.0;West;2001-01-01;;16.0383561644;2016-02-04;Independent;;;106 North Graham Street;35.9105474, -79.0642914
+Khushi Salads & Wraps;Restaurant;East Franklin Street;169.0;East;2016-01-19;;0.980821917808;2016-04-19;Independent;;;169 East Franklin Street;35.9142821, -79.0535403
+Artisan Pizza Kitchen;Restaurant;East Franklin Street;153.0;East;2010-01-01;;7.03287671233;2016-02-04;Independent;;;153 East Franklin Street;35.9141, -79.054093
+School Kids Records;Retail;West Franklin Street;405.5;West;2000-01-01;;17.0410958904;2016-05-02;Independent;;;405.5 West Franklin Street;35.9109798, -79.0607288
+I ♥ NY Pizza;Restaurant;West Franklin Street;106.0;Central;2000-01-01;;17.0410958904;2015-11-06;Chain;;;106 West Franklin Street;35.9132505, -79.0563515
+First Baptist Church;Church;North Roberson Street;106.0;West;1875-12-31;;141.123287671;2016-01-07;Undetermined;;;106 North Roberson Street;35.9108808, -79.0632726
+Bread & Butter;Restaurant;West Rosemary Street;503.0;West;2011-09-01;;5.36712328767;2015-10-14;Independent;;;503 West Rosemary Street;35.9109784, -79.0643014
+Pulse;Bar;East Rosemary Street;136.0;East;2012-01-01;2015-09-15 00:00:00;3.70684931507;2016-01-07;Independent;;;136 East Rosemary Street;35.9143164, -79.0548735
+Light Art + Design;Cultural Destination;West Rosemary Street;601.0;West;2013-01-01;;4.0301369863;2016-05-02;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Franklin Hotel;Service;West Franklin Street;311.0;West;2007-01-01;;10.0356164384;2016-01-07;Independent;;;311 West Franklin Street;35.9111177, -79.0601279
+Imbibe;Restaurant;Henderson Street;108.0;East;2015-02-01;;1.94520547945;2016-02-10;Independent;;;108 Henderson Street;35.9147965, -79.0528982
+The Rathskeller;Restaurant;East Franklin Street;157.5;East;1948-01-01;2006-06-20 00:00:00;58.5068493151;2016-03-30;Independent;;;157.5 East Franklin Street;35.9141034, -79.0540341
+MINT;Restaurant;West Franklin Street;504.0;West;2008-01-01;;9.03561643836;2016-01-07;Independent;;;504 West Franklin Street;35.9102389, -79.0637523
+University Presbyterian Church;Church;East Franklin Street;209.0;East;1849-12-31;;167.139726027;2016-03-30;Undetermined;;;209 East Franklin Street;35.9150055, -79.0525428
+Toots & Magoo;Retail;East Franklin Street;142.0;East;2011-02-01;2009-01-01 00:00:00;-2.08493150685;2015-08-12;Independent;;;142 East Franklin Street;35.9133956, -79.054177
+Industry;Restaurant;West Rosemary Street;403.0;West;2014-01-01;2015-03-01 00:00:00;1.16164383562;2016-01-20;Independent;;;403 West Rosemary Street;35.9114429, -79.0625272
+Kalimaki;Restaurant;West Franklin Street;431.0;West;2013-01-01;2016-03-30 00:00:00;3.24383561644;2016-04-11;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+Ye Olde Waffle Shop;Restaurant;East Franklin Street;173.0;East;1972-01-01;;45.0602739726;2016-02-04;Independent;;;173 East Franklin Street;35.914286, -79.0534186
+Insomnia Cookies;Restaurant;East Franklin Street;145.0;East;2013-11-15;;3.15890410959;2016-09-07;Chain;;;145 East Franklin Street;35.9139352, -79.054296
+Grace Hair;Service;West Rosemary Street;406.0;West;;;;2016-04-20;Undetermined;;;406 West Rosemary Street;35.9116556, -79.0631153
+R & R Grill;Restaurant;East Franklin Street;137.0;East;2009-06-01;;7.61917808219;2016-02-04;Independent;;;137 East Franklin Street;35.9139617, -79.0545033
+Internationalist Books;Retail;West Franklin Street;405.0;West;1981-01-01;2014-08-01 00:00:00;33.602739726;2015-08-12;Independent;;;405 West Franklin Street;35.9109798, -79.0607288
+Thrill City;Retail;West Franklin Street;422.0;West;2013-12-01;2015-05-17 00:00:00;1.4575342465799999;2015-11-16;Independent;;;422 West Franklin Street;35.9112521, -79.0613756
+Walker's Funeral Home;Service;West Franklin Street;120.0;Central;1937-01-01;;80.0821917808;2016-09-07;Independent;;;120 West Franklin Street;35.9131568, -79.0569646
+Buns;Restaurant;North Columbia Street;107.0;Central;2008-06-01;;8.61917808219;2016-09-07;Independent;;;107 North Columbia Street;35.9134418, -79.0562239
+Aveda;Service;West Franklin Street;200.0;Central;2005-01-01;2015-01-01 00:00:00;10.0054794521;2015-07-17;Chain;;;200 West Franklin Street;35.9123562, -79.0583233
+Tate Realty;Service;West Rosemary Street;342.0;West;1956-01-01;;61.0712328767;2016-01-07;Independent;;;342 West Rosemary Street;35.9119949, -79.0620644
+Time After Time;Retail;West Franklin Street;414.0;West;1983-01-01;2014-03-19 00:00:00;31.2328767123;2015-08-12;Independent;;;414 West Franklin Street;35.9113572, -79.0611322
+H2Only Cleaners;Service;West Rosemary Street;601.0;West;2014-03-01;2015-11-06 00:00:00;1.68493150685;2015-11-11;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+People's Beauty;Service;North Graham Street;108.0;West;1986-01-01;2014-08-01 00:00:00;28.6;2015-07-17;Independent;;;108 North Graham Street;35.910557, -79.064251
+Time Out;Restaurant;East Franklin Street;201.0;East;1978-01-01;;39.0547945205;2016-02-04;Independent;;;201 East Franklin Street;35.9145697, -79.0528396
+Walgreen's;Service;East Franklin Street;108.0;East;2010-01-01;;7.03287671233;2016-03-15;Chain;;;108 East Franklin Street;35.9130138, -79.0550829
+Carolina Pride Sportswear;Retail;East Franklin Street;151.0;East;1983-01-01;2013-06-18 00:00:00;30.4821917808;2015-08-12;Independent;;;151 East Franklin Street;35.9139706, -79.0541075
+Toppers;Restaurant;West Franklin Street;306.0;West;2014-01-01;;3.0301369863;2015-12-11;Chain;;;306 West Franklin Street;35.912013, -79.0600363
+Starbucks;Restaurant;East Franklin Street;103.0;East;2000-01-01;;17.0410958904;2016-02-04;Chain;;;103 East Franklin Street;35.9134416, -79.0555858
+Might as Well Bar & Grill;Restaurant;West Franklin Street;206.0;Central;;;;2016-12-07;Undetermined;;;206 West Franklin Street;35.9123709, -79.0588829
+Franklin Street Pizza & Pasta;Restaurant;East Franklin Street;163.0;East;1993-01-01;2012-02-28 00:00:00;19.1698630137;2015-08-12;Independent;;;163 East Franklin Street;35.9142612, -79.0537452
+FRANK Gallery;Cultural Destination;East Franklin Street;109.0;East;2010-01-01;;7.03287671233;2016-01-20;Independent;;;109 East Franklin Street;35.9136207, -79.0553921
+The Bicycle Chain;Retail;West Franklin Street;210.0;Central;1992-01-01;;25.0465753425;2015-12-11;Chain;;;210 West Franklin Street;35.9122102, -79.0592116
+Mama Dip's;Restaurant;West Rosemary Street;408.0;West;1976-01-01;;41.0575342466;2015-10-14;Independent;;;408 West Rosemary Street;35.9116242, -79.0634001
+Al's Burger Shack;Restaurant;West Franklin Street;516.0;West;2013-09-26;;3.29589041096;2015-11-06;Independent;www.alsburgershack.com;;516 West Franklin Street;35.9101427, -79.0640878
+Trolley Stop Hotdogs;Restaurant;West Franklin Street;306.0;West;2015-03-25;;1.80273972603;2015-11-06;Chain;www.trollystophotdogs.com;;306 West Franklin Street;35.912013, -79.0600363
+Sweet Frog Yogurt;Restaurant;East Franklin Street;105.0;East;2011-12-20;2017-01-03 00:00:00;5.04383561644;2017-01-04;Chain;;;105 East Franklin Street;35.9135739, -79.055577
+Fuse;Restaurant;West Rosemary Street;403.0;West;2004-01-01;2010-11-01 00:00:00;6.83835616438;2015-08-12;Independent;;;403 West Rosemary Street;35.9114429, -79.0625272
+Vimala's Curryblossom Café;Restaurant;West Franklin Street;431.0;West;2010-06-01;;6.61917808219;2015-11-06;Independent;www.curryblossom.com;;431 West Franklin Street;35.9100322, -79.0628443
+Roots Bistro;Restaurant;East Franklin Street;161.0;East;2015-03-01;;1.86849315068;2016-02-04;Independent;;;161 East Franklin Street;35.9141728, -79.0538136
+Jasmin Bistro;Restaurant;West Franklin Street;100.0;Central;2015-03-01;;1.86849315068;2016-09-07;Chain;;;100 West Franklin Street;35.9132524, -79.0560806
+Baxter Arcade;Cultural Destination;North Graham Street;108.0;West;2014-10-20;;2.2301369863;2016-02-04;Independent;;;108 North Graham Street;35.910557, -79.064251
+Glenn's Tailor Shop;Service;East Rosemary Street;136.0;East;1986-01-01;;31.0493150685;2016-01-07;Independent;;;136 East Rosemary Street;35.9143164, -79.0548735
+Los Potrillos;Restaurant;West Rosemary Street;220.0;Central;2003-01-01;2016-02-15 00:00:00;13.1315068493;2016-03-15;Independent;;;220 West Rosemary Street;35.9134516, -79.0585704
+La Residence;Restaurant;West Rosemary Street;202.0;Central;1976-01-01;;41.0575342466;2015-11-06;Independent;;;202 West Rosemary Street;35.9137366, -79.0579075
+Tar Heel Bookstore;Retail;East Franklin Street;119.0;East;2000-01-01;2011-03-01 00:00:00;11.1698630137;2015-09-22;Independent;;;119 East Franklin Street;35.9137359, -79.0551138
+Patio Loco;Restaurant;West Franklin Street;407.0;West;2001-01-01;2008-01-01 00:00:00;7.00273972603;2016-04-22;Independent;;;407 West Franklin Street;35.9108233, -79.060804
+Cold Stone;Restaurant;East Franklin Street;131.0;East;2003-01-01;;14.0383561644;2016-03-30;Chain;;;131 East Franklin Street;35.9138158, -79.0548097
+Lightyears;Retail;East Franklin Street;121.0;East;1985-01-01;;32.0493150685;2016-02-04;Independent;;;121 East Franklin Street;35.9138469, -79.055016
+Subway Sandwiches;Restaurant;East Franklin Street;122.0;East;2005-01-01;2015-12-30 00:00:00;11.0;2016-02-04;Chain;;;122 East Franklin Street;35.9131573, -79.0547841
+Chapel Hill Sportswear;Retail;East Franklin Street;119.0;East;1989-01-01;;28.0465753425;2016-09-07;Independent;;;119 East Franklin Street;35.9137359, -79.0551138
+Mediterranean Market;Grocery;West Franklin Street;414.0;West;2015-01-01;;2.0301369863;2015-07-29;Independent;;;414 West Franklin Street;35.9113572, -79.0611322
+Local 506;Cultural Destination;West Franklin Street;506.0;West;1993-01-01;;24.0438356164;2016-01-20;Independent;www.local506.com;;506 West Franklin Street;35.9102202, -79.0638381
+Legacy Cutz;Service;West Rosemary Street;342.0;West;2011-01-01;;6.03287671233;2016-03-15;Independent;;;342 West Rosemary Street;35.9119949, -79.0620644
+Inter Faith Council Homeless Shelter;Service;West Rosemary Street;100.0;Central;1966-01-01;;51.0630136986;2016-06-21;Independent;;;100 West Rosemary Street;35.9141495, -79.056617
+Creative Metalsmith Jewelry;Retail;East Franklin Street;117.0;East;1978-01-01;;39.0547945205;2015-08-12;Independent;;;117 East Franklin Street;35.9136296, -79.0552173
+University Florist and Gift Shop;Retail;East Franklin Street;124.0;East;1946-01-01;;71.0767123288;2015-08-12;Independent;;;124 East Franklin Street;35.9131868, -79.0547046
+Kipos Greek Taverna;Restaurant;West Franklin Street;431.0;West;2013-03-25;;3.80273972603;2015-11-06;Independent;www.kiposchapelhill.com;;431 West Franklin Street;35.9100322, -79.0628443
+Expressions;Retail;East Franklin Street;137.0;East;2010-01-01;2016-08-01 00:00:00;6.58630136986;2016-11-07;Independent;;;137 East Franklin Street;35.9139617, -79.0545033
+FedEX Kinko's;Service;West Franklin Street;114.0;Central;1992-01-01;;25.0465753425;2016-09-07;Chain;;;114 West Franklin Street;35.9131126, -79.0567636
+Ashley Clarke Designs;Retail;West Franklin Street;431.0;West;2015-01-01;2016-03-30 00:00:00;1.24383561644;2016-04-11;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+Nightlight;Cultural Destination;West Rosemary Street;405.0;West;2003-01-01;;14.0383561644;2016-01-20;Independent;;;405 West Rosemary Street;35.911377, -79.062645
+Hair Expressions;Service;West Rosemary Street;406.0;West;2015-01-01;;2.0301369863;2016-01-07;Independent;;;406 West Rosemary Street;35.9116556, -79.0631153
+Sandwhich;Restaurant;West Franklin Street;407.0;West;2005-01-01;;12.0356164384;2015-11-06;Independent;;;407 West Franklin Street;35.9108233, -79.060804
+The Cellar;Bar;West Franklin Street;450.5;West;2005-01-01;;12.0356164384;2016-01-07;Independent;;;450.5 West Franklin Street;35.9105991, -79.0623407
+Pepper's Pizza;Restaurant;East Franklin Street;107.0;East;1987-01-01;2013-03-04 00:00:00;26.1890410959;2015-08-12;Independent;;;107 East Franklin Street;35.9135933, -79.055474
+Back Bar @ Top of the Hill;Restaurant;East Franklin Street;100.0;East;2010-01-01;;7.03287671233;2016-04-19;Independent;;;100 East Franklin Street;35.9129612, -79.0553089
+Panera Bread Company;Restaurant;West Franklin Street;213.0;Central;2002-04-01;;14.7917808219;2015-11-06;Chain;;;213 West Franklin Street;35.9113948, -79.0589906
+Guru India;Restaurant;West Franklin Street;508.0;West;2012-01-01;;5.03287671233;2016-01-07;Independent;;;508 West Franklin Street;35.9102414, -79.064002
+Spicy Nine Sushi;Restaurant;West Franklin Street;140.0;Central;2014-01-01;;3.0301369863;2016-09-07;Independent;;;140 West Franklin Street;35.912793, -79.0575945
+McAlister's Deli;Restaurant;East Franklin Street;205.0;East;2000-01-01;2016-11-24 00:00:00;16.9095890411;2016-11-29;Chain;;;205 East Franklin Street;35.9146155, -79.0526751
+Ms Mong;Restaurant;East Franklin Street;163.0;East;2015-06-21;;1.56164383562;2015-10-14;Independent;;;163 East Franklin Street;35.9142612, -79.0537452
+Limelight;Retail;West Franklin Street;406.0;West;2008-01-01;2011-01-19 00:00:00;3.05205479452;2015-09-22;Independent;;;406 West Franklin Street;35.9114373, -79.060897
+Chapel Hill Training;Service;West Rosemary Street;400.0;West;2010-01-01;;7.03287671233;2015-08-12;Independent;;;400 West Rosemary Street;35.9118459, -79.0627142
+Carolina Brewery;Restaurant;West Franklin Street;460.0;West;1995-01-01;;22.0438356164;2015-11-06;Independent;;;460 West Franklin Street;35.9107329, -79.0628042
+EyeCareCenter;Service;West Franklin Street;140.0;Central;1998-01-01;;19.0410958904;2016-09-07;Chain;;;140 West Franklin Street;35.912793, -79.0575945
+Bank of America;Service;East Franklin Street;144.0;East;1990-01-01;;27.0465753425;2016-01-07;Chain;;;144 East Franklin Street;35.9134384, -79.054073
+Sophie and Mollies Boutique;Retail;West Franklin Street;431.0;West;2014-07-14;2016-06-01 00:00:00;1.88493150685;2016-06-20;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+Hazmat;Retail;West Franklin Street;405.75;West;2001-01-01;;16.0383561644;2015-11-06;Independent;;;405.75 West Franklin Street;35.9109798, -79.0607288
+PNC Bank;Service;East Rosemary Street;101.0;East;2013-01-01;;4.0301369863;2016-01-07;Chain;;;101 East Rosemary Street;35.9143451, -79.0560516
+Franklin Street Motors;Service;West Franklin Street;601.0;West;2014-01-01;;3.0301369863;2016-06-21;Independent;franklinstreetmotors.com;;601 West Franklin Street;35.9094661, -79.064214
+Pita Pit;Restaurant;East Franklin Street;115.0;East;2003-01-01;2014-11-30 00:00:00;11.9205479452;2015-08-12;Independent;;;115 East Franklin Street;35.91362, -79.0552405
+Cosmic Cantina;Restaurant;East Franklin Street;128.0;East;1999-01-01;;18.0410958904;2015-10-14;Independent;;;128 East Franklin Street;35.9132267, -79.0545808
+McDonald's;Restaurant;West Franklin Street;409.0;West;1984-01-01;;33.0520547945;2015-11-06;Chain;;;409 West Franklin Street;35.9107829, -79.0611589
+Jersey Mike's;Restaurant;North Columbia Street;107.0;Central;2004-01-01;2007-06-01 00:00:00;3.41643835616;2015-08-12;Chain;;;107 North Columbia Street;35.9134418, -79.0562239
+Country Fried Duck;Bar;East Rosemary Street;157.0;East;2015-06-01;;1.61643835616;2016-02-04;Independent;;;157 East Rosemary Street;35.9152247, -79.0540321
+The Bookshop;Retail;West Franklin Street;400.0;West;1979-01-01;;38.0547945205;2015-11-06;Independent;;;400 West Franklin Street;35.9115454, -79.0608542
+Rumors;Retail;North Graham Street;106.0;West;2013-09-05;;3.3534246575299997;2016-02-04;Independent;;;106 North Graham Street;35.9105474, -79.0642914
+Logan's Pub & Billiards;Bar;East Franklin Street;201.0;East;2015-10-02;2016-08-01 00:00:00;0.832876712329;2016-11-29;Independent;;;201 East Franklin Street;35.9145697, -79.0528396
+Kurama Sushi & Noodle Express;Restaurant;North Columbia Street;105.0;Central;2004-01-01;;13.0383561644;2016-09-07;Independent;;;105 North Columbia Street;35.9134194, -79.0561536
+Campus Calzones;Restaurant;East Franklin Street;115.0;East;2014-01-01;2014-12-01 00:00:00;0.915068493151;2015-09-03;Chain;;;115 East Franklin Street;35.91362, -79.0552405
+Gamestop;Retail;East Franklin Street;100.0;East;2009-01-01;2014-08-01 00:00:00;5.5835616438399995;2015-08-12;Chain;;;100 East Franklin Street;35.9129612, -79.0553089
+Julian's;Retail;East Franklin Street;135.0;East;1942-01-01;;75.0794520548;2016-09-07;Independent;;;135 East Franklin Street;35.913906, -79.054697
+Chapel Hill Fan Shop;Retail;West Franklin Street;306.0;West;2014-08-13;2016-06-10 00:00:00;1.82739726027;2016-06-20;Chain;;;306 West Franklin Street;35.912013, -79.0600363
+Arnold McClain Periodontology;Service;West Rosemary Street;601.0;West;2014-01-01;;3.0301369863;2016-01-07;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Mediterranean Deli;Restaurant;West Franklin Street;410.0;West;1992-01-01;;25.0465753425;2015-11-06;Independent;;;410 West Franklin Street;35.9114715, -79.0610663
+Sawasdee Thai Restaurant;Restaurant;North Columbia Street;110.0;East;2015-10-01;;1.2821917808199998;2015-12-18;Independent;www.sawasdeechapelhill.com;;110 North Columbia Street;35.913643, -79.0557404
+Ms Molly's Gift Shop;Retail;South Merritt Mill Road;111.0;West;1992-01-01;2016-03-01 00:00:00;24.1808219178;2016-03-15;Independent;;;111 South Merritt Mill Road;35.9087894, -79.0644874
+Varsity Theatre;Cultural Destination;East Franklin Street;123.0;East;1955-01-01;;62.0712328767;2016-01-20;Independent;;;123 East Franklin Street;35.913835, -79.0550047
+Studio Design Gallery;Retail;West Franklin Street;431.0;West;2013-11-01;;3.19726027397;2015-11-06;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+DSI Comedy;Cultural Destination;West Franklin Street;462.0;West;2014-05-01;;2.70136986301;2016-01-20;Independent;www.dsicomedythetater.com;;462 West Franklin Street;35.9107085, -79.0629318
+Jack Sprat;Restaurant;East Franklin Street;161.0;East;2005-01-05;2012-10-09 00:00:00;7.76438356164;2015-08-12;Independent;;;161 East Franklin Street;35.9141728, -79.0538136
+Clothing Warehouse;Retail;East Franklin Street;109.0;East;2009-01-01;2015-04-30 00:00:00;6.32876712329;2015-08-12;Chain;;;109 East Franklin Street;35.9136207, -79.0553921
+Chapel Hill Barber Shop;Service;West Franklin Street;431.0;West;1967-01-01;;50.0630136986;2016-01-07;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+Mellow Mushroom;Restaurant;West Franklin Street;310.0;West;2013-03-01;;3.86849315068;2015-12-11;Chain;;;310 West Franklin Street;35.9115797, -79.0605167
+d.b. Sutton;Service;West Franklin Street;406.0;West;2000-01-01;;17.0410958904;2016-01-07;Independent;;;406 West Franklin Street;35.9114373, -79.060897
+Chopsticks & More;Restaurant;East Franklin Street;163.0;East;2013-08-01;2014-12-30 00:00:00;1.4136986301399999;2015-09-03;Independent;;;163 East Franklin Street;35.9142612, -79.0537452
+Sakura Express;Restaurant;North Columbia Street;110.0;East;2001-01-01;2015-08-24 00:00:00;14.6520547945;2015-08-25;Independent;;;110 North Columbia Street;35.913643, -79.0557404
+Noodles & Co;Restaurant;West Franklin Street;214.0;Central;2008-07-01;;8.53698630137;2015-11-06;Chain;;;214 West Franklin Street;35.9119875, -79.0594893
+Spanky's;Restaurant;East Franklin Street;101.0;East;1977-01-01;;40.0547945205;2016-02-04;Independent;;;101 East Franklin Street;35.913469, -79.05567
+Nail Trix;Service;West Franklin Street;306.0;West;2004-01-01;;13.0383561644;2015-07-17;Independent;;;306 West Franklin Street;35.912013, -79.0600363
+Gigi's Cupcakes;Restaurant;West Franklin Street;140.0;Central;2013-03-01;2014-06-01 00:00:00;1.25205479452;2015-09-03;Chain;;;140 West Franklin Street;35.912793, -79.0575945
+Something Different Cafe;Restaurant;West Franklin Street;431.0;West;2016-11-02;;0.191780821918;2016-11-21;Independent;;;431 West Franklin Street;35.9100322, -79.0628443
+Franklin Street Market;Service;East Franklin Street;167.0;East;2011-01-01;;6.03287671233;2016-04-20;Independent;;;167 East Franklin Street;35.914332, -79.053625
+Jiffy Lube;Service;West Franklin Street;607.0;West;2000-01-01;;17.0410958904;2016-01-07;Chain;;;607 West Franklin Street;35.9094771, -79.0645499
+At Last Salon and Spa;Service;North Graham Street;109.0;West;2011-01-01;2013-01-01 00:00:00;2.00273972603;2016-04-20;Independent;;;109 North Graham Street;35.9102049, -79.0647099
+Cholanad Restaurant;restaurant;West Franklin Street;308.0;West;2011-12-01;;5.11780821918;2015-11-06;Independent;www.cholanad.com;;308 West Franklin Street;35.9117474, -79.0601652
+Hell;Bar;East Rosemary Street;157.5;East;1997-01-01;2008-12-01 00:00:00;11.9232876712;2015-07-28;Independent;;;157.5 East Rosemary Street;35.9152247, -79.0540321
+Midway Community Kitchen;Service;West Rosemary Street;505.0;West;2016-01-01;;1.0301369863;2016-03-15;Independent;;;505 West Rosemary Street;35.9109871, -79.0645924
+Shanghai Dumplings;Restaurant;East Franklin Street;143.0;East;2015-08-28;;1.37534246575;2015-12-18;Independent;;;143 East Franklin Street;35.9139627, -79.0543046
+Precise Cutz & Styles;Service;East Franklin Street;137.0;East;2005-01-01;;12.0356164384;2015-07-22;Independent;;;137 East Franklin Street;35.9139617, -79.0545033
+He's Not Here;Bar;West Franklin Street;112.5;Central;1972-11-01;;44.2246575342;2015-11-06;Independent;;;112.5 West Franklin Street;35.9128444, -79.05655
+Carolina Ale House;Restaurant;West Franklin Street;419.0;West;2015-10-26;;1.21369863014;2015-11-24;Chain;;;419 West Franklin Street;35.9104767, -79.0620511
+Sutton's Drug Store;Restaurant;East Franklin Street;159.0;East;1923-01-01;;94.0931506849;2016-02-04;Independent;;;159 East Franklin Street;35.9141513, -79.0538817
+Linda's Bar & Grill;Restaurant;East Franklin Street;203.0;East;1976-01-01;;41.0575342466;2015-08-12;Independent;;;203 East Franklin Street;35.9145561, -79.0527465
+Elaine's;Restaurant;West Franklin Street;454.0;West;1999-01-01;;18.0410958904;2016-03-30;Independent;;;454 West Franklin Street;35.910804, -79.062627
+Blue Horn Lounge;Bar;East Franklin Street;125.0;East;2005-01-01;;12.0356164384;2016-03-30;Independent;;;125 East Franklin Street;35.9137288, -79.0549214
+Morehead Planetarium;Cultural Destination;East Franklin Street;250.0;East;1949-01-01;;68.0739726027;2016-01-20;Independent;;;250 East Franklin Street;35.9139033, -79.05051
+Krispy Kreme;Restaurant;East Franklin street;157.0;East;2010-06-01;2015-06-01 00:00:00;5.00273972603;2015-09-08;Chain;;;157 East Franklin street;35.9141034, -79.0540341
+TRU Deli + Wine;Restaurant;Henderson Street;114.0;East;2012-08-01;;4.44931506849;2016-02-04;Independent;;;114 Henderson Street;35.9151581, -79.0531202
+Orange County Job Skills Center;Service;West Franklin Street;503.0;West;2000-01-01;;17.0410958904;2016-01-07;Independent;;;503 West Franklin Street;35.909628, -79.063404
+Pantana Bob's;Bar;West Rosemary Street;300.0;Central;1983-01-01;;34.0520547945;2016-01-07;Independent;;;300 West Rosemary Street;35.913161, -79.0589408
+Four Corners;Restaurant;East Franklin Street;175.0;East;1995-01-01;;22.0438356164;2016-02-04;Independent;;;175 East Franklin Street;35.9143115, -79.0533495
+Wesley Campus Ministry;Church;East Franklin Street;157.5;East;2013-01-01;;4.0301369863;2016-01-07;Undetermined;;;157.5 East Franklin Street;35.9141034, -79.0540341
+Joe's Joint;Restaurant;East Franklin Street;161.5;East;2006-10-10;;10.2630136986;2015-08-12;Independent;;;161.5 East Franklin Street;35.9141728, -79.0538136
+La Potosina Mexican Tienda;Grocery;West Rosemary Street;407.0;West;1999-01-01;;18.0410958904;2016-01-07;Independent;;;407 West Rosemary Street;35.9113021, -79.0627764
+Triangle Cellular Repair;Service;West Rosemary Street;601.0;West;2015-04-01;;1.78356164384;2016-03-15;Chain;;;601 West Rosemary Street;35.9106835, -79.065186
+Delaine's House of Beauty;Service;North Graham Street;111.0;West;2009-01-01;2016-01-01 00:00:00;7.00273972603;2016-04-29;Independent;;;111 North Graham Street;35.9103483, -79.064619
+Robert's;Bar;West Franklin Street;311.0;West;2006-12-01;;10.1205479452;2015-12-18;Independent;www.franklinhotelnc.com;;311 West Franklin Street;35.9111177, -79.0601279
+Lime & Basil;Restaurant;West Franklin Street;200.0;Central;2005-01-01;;12.0356164384;2015-11-06;Independent;;;200 West Franklin Street;35.9123562, -79.0583233
+BB&T;Service;East Rosemary Street;143.0;East;1979-01-01;;38.0547945205;2016-01-07;Chain;;;143 East Rosemary Street;35.9149792, -79.05466
+Hotdogs and Brew;Restaurant;East Franklin Street;169.0;East;2012-05-29;2013-10-06 00:00:00;1.35616438356;2015-08-12;Independent;;;169 East Franklin Street;35.9142821, -79.0535403
+Studio Supply;Retail;West Franklin Street;421.0;West;1998-01-01;2012-05-01 00:00:00;14.3397260274;2016-03-18;Independent;;;421 West Franklin Street;35.910443, -79.062233
+Talulla's;Restaurant;West Franklin Street;456.0;West;2004-01-01;;13.0383561644;2015-11-06;Independent;;;456 West Franklin Street;35.9107663, -79.06271
+Breadmen's;Restaurant;West Rosemary Street;324.0;West;1974-01-01;;43.0575342466;2015-10-14;Independent;;;324 West Rosemary Street;35.9125168, -79.0610477
+Salon 135;Service;East Franklin Street;128.0;East;1982-01-01;;35.0520547945;2015-07-17;Independent;;;128 East Franklin Street;35.9132267, -79.0545808
+Chapel Hill Comics;Retail;West Franklin Street;316.0;West;1990-01-01;;27.0465753425;2015-11-06;Independent;www.chapelhillcomics.com;;316 West Franklin Street;35.9115378, -79.0606062
+Bluetique;Retail;West Franklin Street;318.0;West;2014-02-07;;2.92876712329;2015-11-06;Chain;;;318 West Franklin Street;35.9115179, -79.0606675
+Next Door Cleaners;Service;West Rosemary Street;601.0;West;2016-03-01;2016-08-01 00:00:00;0.419178082192;2016-09-19;Independent;;;601 West Rosemary Street;35.9106835, -79.065186
+Walt's Grill;Restaurant;South Merritt Mill Road;111.0;West;1974-01-01;;43.0575342466;2016-01-07;Independent;;;111 South Merritt Mill Road;35.9087894, -79.0644874
+Ply;Service;East Franklin Street;157.5;East;2013-01-01;2014-01-01 00:00:00;1.0;2016-03-01;Independent;;;157.5 East Franklin Street;35.9141034, -79.0540341
+Players;Bar;East Franklin Street;159.0;East;1995-01-01;2014-11-01 00:00:00;19.8465753425;2015-08-12;Independent;;;159 East Franklin Street;35.9141513, -79.0538817
+Ackland Museum Store;Retail;East Franklin Street;100.0;East;2011-05-01;;5.70410958904;2016-02-04;Independent;;;100 East Franklin Street;35.9129612, -79.0553089
+Key Food Mart;Grocery;West Rosemary Street;325.0;West;1988-01-01;;29.0493150685;2016-01-07;Independent;;;325 West Rosemary Street;35.9120781, -79.0604977
+The Crunkleton;Bar;West Franklin Street;320.0;West;2008-01-01;;9.03561643836;2016-09-07;Independent;;;320 West Franklin Street;35.9114965, -79.0607226

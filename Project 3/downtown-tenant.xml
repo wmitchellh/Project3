@@ -1,0 +1,5000 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <date_closed>2013-12-01 00:00:00</date_closed>
+    <years_in_business>4.08493150685</years_in_business>
+    <website/>
+    <address_number>318</address_number>
+    <date_updated>2015-09-22</date_updated>
+    <tenant_name>Somethin&#x27; Else</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>318 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9115179</lat>
+      <lon>-79.0606675</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2009-11-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>34.0520547945</years_in_business>
+    <website/>
+    <address_number>128</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Johnny T-shirt</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>128 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132267</lat>
+      <lon>-79.0545808</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1983-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>29.802739726</years_in_business>
+    <website/>
+    <address_number>157</address_number>
+    <date_updated>2015-07-30</date_updated>
+    <tenant_name>Bub O&#x27;Malley&#x27;s</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>157 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9152247</lat>
+      <lon>-79.0540321</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1987-04-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2015-07-28</date_updated>
+    <tenant_name>Top of the Hill Great Room</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>100 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9129612</lat>
+      <lon>-79.0553089</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Event Space</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.446575342466</years_in_business>
+    <website>highlifesmokes.com</website>
+    <address_number>137</address_number>
+    <date_updated>2016-11-07</date_updated>
+    <tenant_name>High Life Smoke Shop</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2016-08-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>31.0493150685</years_in_business>
+    <website/>
+    <address_number>311</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Tony Hall and Associates</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>311 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9126002</lat>
+      <lon>-79.0595407</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1986-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-11-05 00:00:00</date_closed>
+    <years_in_business>2.5726027397299998</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Lime Fresh Mexican Grill</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2013-04-10</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.17260273973</years_in_business>
+    <website/>
+    <address_number>110</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Moe&#x27;s Southwest Grill</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>110 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131982</lat>
+      <lon>-79.0565789</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2015-11-10</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.25205479452</years_in_business>
+    <website/>
+    <address_number>403</address_number>
+    <date_updated>2015-10-14</date_updated>
+    <tenant_name>Northside District</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>403 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114429</lat>
+      <lon>-79.0625272</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-10-12</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>15.0383561644</years_in_business>
+    <website/>
+    <address_number>421</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Lantern</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>421 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.910443</lat>
+      <lon>-79.062233</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2002-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-01-04 00:00:00</date_closed>
+    <years_in_business>2.72328767123</years_in_business>
+    <website/>
+    <address_number>206</address_number>
+    <date_updated>2016-01-19</date_updated>
+    <tenant_name>Fitzgerald&#x27;s Irish Pub</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>206 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9123709</lat>
+      <lon>-79.0588829</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2013-04-15</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-02-01 00:00:00</date_closed>
+    <years_in_business>3.3698630137</years_in_business>
+    <website/>
+    <address_number>157.5</address_number>
+    <date_updated>2016-06-20</date_updated>
+    <tenant_name>Chapel Hill Underground</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>157.5 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9152247</lat>
+      <lon>-79.0540321</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-09-19</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.109589041096</years_in_business>
+    <website/>
+    <address_number>401</address_number>
+    <date_updated>2016-12-13</date_updated>
+    <tenant_name>Cuban Revolution</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>401 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9110638</lat>
+      <lon>-79.0605245</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-12-02</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>102</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Ben &amp; Jerry&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>102 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132266</lat>
+      <lon>-79.0561369</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.6164383561599998</years_in_business>
+    <website/>
+    <address_number>151</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Fedora</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>151 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139706</lat>
+      <lon>-79.0541075</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2014-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-06-01 00:00:00</date_closed>
+    <years_in_business>1.16712328767</years_in_business>
+    <website/>
+    <address_number>403</address_number>
+    <date_updated>2015-09-03</date_updated>
+    <tenant_name>Mina&#x27;s Grill</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>403 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9110034</lat>
+      <lon>-79.0605443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-04-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>205</address_number>
+    <date_updated>2015-07-17</date_updated>
+    <tenant_name>Joseph&#x27;s Hairstyling</tenant_name>
+    <street_name>North Columbia Street</street_name>
+    <address>205 North Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.915751</lat>
+      <lon>-79.057965</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.19726027397</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>CVS</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-11-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.31506849315</years_in_business>
+    <website>www.crepetraditions.com</website>
+    <address_number>140</address_number>
+    <date_updated>2015-11-11</date_updated>
+    <tenant_name>Crepe Traditions</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2015-09-19</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>10.0356164384</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2015-11-11</date_updated>
+    <tenant_name>Franklin Street Yoga</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2007-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.8</years_in_business>
+    <website>www.bennysva.com/BennyCappellas</website>
+    <address_number>122</address_number>
+    <date_updated>2016-04-19</date_updated>
+    <tenant_name>Benny Cappella&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>122 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131573</lat>
+      <lon>-79.0547841</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2016-03-25</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>25.0465753425</years_in_business>
+    <website/>
+    <address_number>200</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Chapel Hill Florist</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>200 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9123562</lat>
+      <lon>-79.0583233</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1992-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>5.53698630137</years_in_business>
+    <website/>
+    <address_number>142</address_number>
+    <date_updated>2016-03-01</date_updated>
+    <tenant_name>Bevello Clothing</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>142 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9133956</lat>
+      <lon>-79.054177</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2011-07-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2010-01-01 00:00:00</date_closed>
+    <years_in_business>13.0082191781</years_in_business>
+    <website/>
+    <address_number>306</address_number>
+    <date_updated>2015-07-17</date_updated>
+    <tenant_name>Hair Cuttery</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1997-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>24.0438356164</years_in_business>
+    <website/>
+    <address_number>608</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Passport Motors</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>608 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.909662</lat>
+      <lon>-79.0648338</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1993-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>607</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Papa Johns</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>607 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9094771</lat>
+      <lon>-79.0645499</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>306</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Vespa Restaurant</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>165</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Wells Fargo</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>165 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142884</lat>
+      <lon>-79.0536817</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business/>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2016-11-18</date_updated>
+    <tenant_name>Sotheby&#x27;s Realty</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened/>
+  </row>
+  <row>
+    <date_closed>2015-12-30 00:00:00</date_closed>
+    <years_in_business>1.74794520548</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Bikram Yoga</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-04-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>59.0684931507</years_in_business>
+    <website/>
+    <address_number>101</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Ackland Art Museum</tenant_name>
+    <street_name>South Columbia Street</street_name>
+    <address>101 South Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9127264</lat>
+      <lon>-79.0555436</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1958-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>9.45479452055</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Sugarland</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>140 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9135201</lat>
+      <lon>-79.0543512</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2007-08-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.80273972603</years_in_business>
+    <website/>
+    <address_number>159</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>The Strowd</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>159 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141513</lat>
+      <lon>-79.0538817</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-03-25</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.12602739726</years_in_business>
+    <website/>
+    <address_number>106</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Beer Study</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>106 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9105474</lat>
+      <lon>-79.0642914</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2012-11-27</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>72.0767123288</years_in_business>
+    <website/>
+    <address_number>112</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Jones Funeral Home</tenant_name>
+    <street_name>South Graham Street</street_name>
+    <address>112 South Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9091043</lat>
+      <lon>-79.0641536</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1945-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>43.0575342466</years_in_business>
+    <website/>
+    <address_number>155</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>The Shrunken Head</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>155 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9140505</lat>
+      <lon>-79.0540058</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1974-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>6.03287671233</years_in_business>
+    <website/>
+    <address_number>400</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Uptown Beauty Salon</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>400 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9118459</lat>
+      <lon>-79.0627142</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>13.0383561644</years_in_business>
+    <website/>
+    <address_number>416</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Moshi Moshi</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>416 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113157</lat>
+      <lon>-79.0611653</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2004-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.0301369863</years_in_business>
+    <website/>
+    <address_number>505</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Topo Distillery</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>505 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9094733</lat>
+      <lon>-79.0635935</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.698630136986</years_in_business>
+    <website>local-liquids.com</website>
+    <address_number>400</address_number>
+    <date_updated>2016-11-07</date_updated>
+    <tenant_name>Local Liquids Vape Shop</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>400 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9118459</lat>
+      <lon>-79.0627142</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-05-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.0438356164</years_in_business>
+    <website>thetopofthehill.com</website>
+    <address_number>100</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Top of the Hill</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>100 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9129612</lat>
+      <lon>-79.0553089</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2012-12-19 00:00:00</date_closed>
+    <years_in_business>0.802739726027</years_in_business>
+    <website/>
+    <address_number>163</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Tomato Jake&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>163 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142612</lat>
+      <lon>-79.0537452</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.36438356164</years_in_business>
+    <website/>
+    <address_number>133</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Underground Printing</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>133 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9138036</lat>
+      <lon>-79.0547013</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-09-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.0438356164</years_in_business>
+    <website/>
+    <address_number>108.5</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Zog&#x27;s Pool Hall</tenant_name>
+    <street_name>Henderson Street</street_name>
+    <address>108.5 Henderson Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9147965</lat>
+      <lon>-79.0528982</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-04-28 00:00:00</date_closed>
+    <years_in_business>0.238356164384</years_in_business>
+    <website>xeniachapelhill.com</website>
+    <address_number>422</address_number>
+    <date_updated>2016-06-20</date_updated>
+    <tenant_name>Xenia</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>422 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9112521</lat>
+      <lon>-79.0613756</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-02-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2008-01-01 00:00:00</date_closed>
+    <years_in_business>5.00273972603</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Goldies Grille</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2003-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-10-30 00:00:00</date_closed>
+    <years_in_business>2.24657534247</years_in_business>
+    <website/>
+    <address_number>169</address_number>
+    <date_updated>2015-12-11</date_updated>
+    <tenant_name>Hummus Café</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>169 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142821</lat>
+      <lon>-79.0535403</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-08-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-06-01 00:00:00</date_closed>
+    <years_in_business>2.41369863014</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2015-08-19</date_updated>
+    <tenant_name>Greenbridge Sales Office</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-06-01 00:00:00</date_closed>
+    <years_in_business>2.64383561644</years_in_business>
+    <website/>
+    <address_number>143</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Mei Asian</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>143 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139627</lat>
+      <lon>-79.0543046</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-10-09</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.0301369863</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Jeffery West General Dentistry</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>8.03287671233</years_in_business>
+    <website/>
+    <address_number>128</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Who&#x27;s Next Barber Shop</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>128 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132267</lat>
+      <lon>-79.0545808</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2009-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.0438356164</years_in_business>
+    <website/>
+    <address_number>159.5</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Bandido&#x27;s Mexican Café</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>159.5 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141513</lat>
+      <lon>-79.0538817</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>6.03287671233</years_in_business>
+    <website/>
+    <address_number>418</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Smoke Rings</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>418 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113366</lat>
+      <lon>-79.061308</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-01-01 00:00:00</date_closed>
+    <years_in_business>2.08767123288</years_in_business>
+    <website/>
+    <address_number>403</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>The Standard</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>403 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114429</lat>
+      <lon>-79.0625272</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-12-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>51.0630136986</years_in_business>
+    <website/>
+    <address_number>420</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Brown&#x27;s Paint and Hardware</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>420 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113457</lat>
+      <lon>-79.061335</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1966-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>67.0739726027</years_in_business>
+    <website/>
+    <address_number>113</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Knotts Funeral Home</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>113 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9103832</lat>
+      <lon>-79.06474299999999</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1950-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.74520547945</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Gentlemen&#x27;s Corner</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2014-04-15</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>149</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Princeton Review</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>149 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9140295</lat>
+      <lon>-79.0542028</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.19726027397</years_in_business>
+    <website/>
+    <address_number>127</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Waffle House</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>127 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9138106</lat>
+      <lon>-79.054864</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-11-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-07-02 00:00:00</date_closed>
+    <years_in_business>15.5095890411</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Back Door Records</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2011-01-01 00:00:00</date_closed>
+    <years_in_business>11.0082191781</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2015-07-22</date_updated>
+    <tenant_name>Bank of America</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-03-01 00:00:00</date_closed>
+    <years_in_business>0.268493150685</years_in_business>
+    <website/>
+    <address_number>128</address_number>
+    <date_updated>2016-05-31</date_updated>
+    <tenant_name>University PC</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>128 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132267</lat>
+      <lon>-79.0545808</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-11-24</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-06-01 00:00:00</date_closed>
+    <years_in_business>6.41643835616</years_in_business>
+    <website/>
+    <address_number>201</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>The Deep End</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>201 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9145697</lat>
+      <lon>-79.0528396</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2009-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.0438356164</years_in_business>
+    <website/>
+    <address_number>171</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Classic Fashions</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>171 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9143467</lat>
+      <lon>-79.0535396</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-07-07 00:00:00</date_closed>
+    <years_in_business>0.350684931507</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-12-07</date_updated>
+    <tenant_name>KLW Yoga</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.6164383561599998</years_in_business>
+    <website/>
+    <address_number>107</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Sup Dogs</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>107 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9135933</lat>
+      <lon>-79.055474</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2014-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.4630136986</years_in_business>
+    <website/>
+    <address_number>303</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Dead Mule Club</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>303 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.911266</lat>
+      <lon>-79.059704</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1994-08-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>15.0383561644</years_in_business>
+    <website/>
+    <address_number>120</address_number>
+    <date_updated>2015-10-09</date_updated>
+    <tenant_name>The Library</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>120 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131478</lat>
+      <lon>-79.0548774</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2002-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.934246575342</years_in_business>
+    <website/>
+    <address_number>115</address_number>
+    <date_updated>2016-02-19</date_updated>
+    <tenant_name>Smoothie King</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>115 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.91362</lat>
+      <lon>-79.0552405</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2016-02-05</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>95.0931506849</years_in_business>
+    <website/>
+    <address_number>138</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Carolina Coffee Shop</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>138 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913361</lat>
+      <lon>-79.054283</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1922-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>35.0520547945</years_in_business>
+    <website/>
+    <address_number>106</address_number>
+    <date_updated>2015-11-11</date_updated>
+    <tenant_name>Yogurt Pump</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>106 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132505</lat>
+      <lon>-79.0563515</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1982-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>32.0493150685</years_in_business>
+    <website/>
+    <address_number>179</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Teen Center</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>179 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9144158</lat>
+      <lon>-79.0532029</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1985-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>25.0465753425</years_in_business>
+    <website>www.uniquities.com</website>
+    <address_number>452</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Uniquities</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>452 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108239</lat>
+      <lon>-79.0625613</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1992-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.0301369863</years_in_business>
+    <website/>
+    <address_number>405.75</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Ascension Tattoos</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>405.75 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9109798</lat>
+      <lon>-79.0607288</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>6.03287671233</years_in_business>
+    <website/>
+    <address_number>104</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Estetica Silvia</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>104 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108299</lat>
+      <lon>-79.0650441</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>118</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Asia Café</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>118 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131394</lat>
+      <lon>-79.0549742</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-07-01 00:00:00</date_closed>
+    <years_in_business>7.50136986301</years_in_business>
+    <website/>
+    <address_number>108</address_number>
+    <date_updated>2015-08-27</date_updated>
+    <tenant_name>Recovery Room</tenant_name>
+    <street_name>Henderson Street</street_name>
+    <address>108 Henderson Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9147965</lat>
+      <lon>-79.0528982</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2008-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>5.03287671233</years_in_business>
+    <website/>
+    <address_number>400</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Nationwide Insurance</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>400 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9118459</lat>
+      <lon>-79.0627142</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2012-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-12-01 00:00:00</date_closed>
+    <years_in_business>8.92054794521</years_in_business>
+    <website/>
+    <address_number>109</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Tarheel Telecom</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>109 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9102049</lat>
+      <lon>-79.0647099</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2006-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>31.6356164384</years_in_business>
+    <website/>
+    <address_number>508</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Italian Pizzeria III</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>508 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9102414</lat>
+      <lon>-79.064002</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1985-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>35.0520547945</years_in_business>
+    <website/>
+    <address_number>610</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Crook&#x27;s Corner</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>610 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9098609</lat>
+      <lon>-79.0649665</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1982-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>162.136986301</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>University Baptist Church</tenant_name>
+    <street_name>South Columbia Street</street_name>
+    <address>100 South Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9125835</lat>
+      <lon>-79.0558572</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Church</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1854-12-31</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.158904109589</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2016-11-21</date_updated>
+    <tenant_name>Franklin Street Yoga Boutique</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-11-14</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>12.0356164384</years_in_business>
+    <website/>
+    <address_number>450</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>West End Wine Bar</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>450 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108434</lat>
+      <lon>-79.0624793</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>23.0438356164</years_in_business>
+    <website/>
+    <address_number>110</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Tar Heel Taxi</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>110 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9107662</lat>
+      <lon>-79.0644545</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1994-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>11.3698630137</years_in_business>
+    <website/>
+    <address_number>147</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Bski&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>147 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139677</lat>
+      <lon>-79.0542536</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2005-09-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>23.0438356164</years_in_business>
+    <website/>
+    <address_number>422</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Chapel Hill Cleaners</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>422 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9112521</lat>
+      <lon>-79.0613756</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1994-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>27.0465753425</years_in_business>
+    <website/>
+    <address_number>411</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>411 West Italian Café</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>411 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106161</lat>
+      <lon>-79.0615118</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1990-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>149.5</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Goodfellow&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>149.5 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9140295</lat>
+      <lon>-79.0542028</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2011-07-01 00:00:00</date_closed>
+    <years_in_business>2.49589041096</years_in_business>
+    <website/>
+    <address_number>400</address_number>
+    <date_updated>2015-09-22</date_updated>
+    <tenant_name>Zinaz</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>400 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9118459</lat>
+      <lon>-79.0627142</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2009-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>49.0630136986</years_in_business>
+    <website/>
+    <address_number>452.5</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>The Cave</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>452.5 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108239</lat>
+      <lon>-79.0625613</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1968-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.82465753425</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Old Chicago</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2014-03-17</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>16.0383561644</years_in_business>
+    <website/>
+    <address_number>306</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Jimmy John&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2001-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2012-12-31 00:00:00</date_closed>
+    <years_in_business>5.00273972603</years_in_business>
+    <website/>
+    <address_number>406</address_number>
+    <date_updated>2015-09-22</date_updated>
+    <tenant_name>Good Bones Vintage</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>406 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9116556</lat>
+      <lon>-79.0631153</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2008-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-06-01 00:00:00</date_closed>
+    <years_in_business>2.41369863014</years_in_business>
+    <website/>
+    <address_number>128</address_number>
+    <date_updated>2015-07-22</date_updated>
+    <tenant_name>Multiverse Gamers</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>128 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132267</lat>
+      <lon>-79.0545808</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>15.0383561644</years_in_business>
+    <website/>
+    <address_number>308</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Kaplan Educational Center</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>308 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131538</lat>
+      <lon>-79.0596843</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2002-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>400</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Moss</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>400 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9118459</lat>
+      <lon>-79.0627142</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2011-01-01 00:00:00</date_closed>
+    <years_in_business>5.00273972603</years_in_business>
+    <website/>
+    <address_number>105</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Kidzu</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>105 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9135739</lat>
+      <lon>-79.055577</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2006-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-12-30 00:00:00</date_closed>
+    <years_in_business>1.99452054795</years_in_business>
+    <website/>
+    <address_number>161</address_number>
+    <date_updated>2015-09-03</date_updated>
+    <tenant_name>Top This!</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>161 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141728</lat>
+      <lon>-79.0538136</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>64.0712328767</years_in_business>
+    <website/>
+    <address_number>464</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Chapel Hill Tire</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>464 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9104236</lat>
+      <lon>-79.0627941</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1953-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>9.62191780822</years_in_business>
+    <website/>
+    <address_number>301</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Chipotle</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>301 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113993</lat>
+      <lon>-79.0595834</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2007-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.86849315068</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2015-07-14</date_updated>
+    <tenant_name>to the woods salon</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>16.0383561644</years_in_business>
+    <website/>
+    <address_number>106</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Syd&#x27;s Hair Shop</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>106 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9105474</lat>
+      <lon>-79.0642914</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2001-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.980821917808</years_in_business>
+    <website/>
+    <address_number>169</address_number>
+    <date_updated>2016-04-19</date_updated>
+    <tenant_name>Khushi Salads &amp; Wraps</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>169 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142821</lat>
+      <lon>-79.0535403</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2016-01-19</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>153</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Artisan Pizza Kitchen</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>153 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141</lat>
+      <lon>-79.054093</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>405.5</address_number>
+    <date_updated>2016-05-02</date_updated>
+    <tenant_name>School Kids Records</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>405.5 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9109798</lat>
+      <lon>-79.0607288</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>106</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>I ♥ NY Pizza</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>106 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132505</lat>
+      <lon>-79.0563515</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>141.123287671</years_in_business>
+    <website/>
+    <address_number>106</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>First Baptist Church</tenant_name>
+    <street_name>North Roberson Street</street_name>
+    <address>106 North Roberson Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108808</lat>
+      <lon>-79.0632726</lon>
+    </zipcode>
+    <independent_v_chain>Undetermined</independent_v_chain>
+    <category_of_use>Church</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1875-12-31</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>5.36712328767</years_in_business>
+    <website/>
+    <address_number>503</address_number>
+    <date_updated>2015-10-14</date_updated>
+    <tenant_name>Bread &amp; Butter</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>503 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9109784</lat>
+      <lon>-79.0643014</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-09-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-09-15 00:00:00</date_closed>
+    <years_in_business>3.70684931507</years_in_business>
+    <website/>
+    <address_number>136</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Pulse</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>136 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9143164</lat>
+      <lon>-79.0548735</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.0301369863</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-05-02</date_updated>
+    <tenant_name>Light Art + Design</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>10.0356164384</years_in_business>
+    <website/>
+    <address_number>311</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Franklin Hotel</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>311 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9111177</lat>
+      <lon>-79.0601279</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2007-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.94520547945</years_in_business>
+    <website/>
+    <address_number>108</address_number>
+    <date_updated>2016-02-10</date_updated>
+    <tenant_name>Imbibe</tenant_name>
+    <street_name>Henderson Street</street_name>
+    <address>108 Henderson Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9147965</lat>
+      <lon>-79.0528982</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-02-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2006-06-20 00:00:00</date_closed>
+    <years_in_business>58.5068493151</years_in_business>
+    <website/>
+    <address_number>157.5</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>The Rathskeller</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>157.5 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141034</lat>
+      <lon>-79.0540341</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1948-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>9.03561643836</years_in_business>
+    <website/>
+    <address_number>504</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>MINT</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>504 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9102389</lat>
+      <lon>-79.0637523</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2008-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>167.139726027</years_in_business>
+    <website/>
+    <address_number>209</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>University Presbyterian Church</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>209 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9150055</lat>
+      <lon>-79.0525428</lon>
+    </zipcode>
+    <independent_v_chain>Undetermined</independent_v_chain>
+    <category_of_use>Church</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1849-12-31</date_opened>
+  </row>
+  <row>
+    <date_closed>2009-01-01 00:00:00</date_closed>
+    <years_in_business>-2.08493150685</years_in_business>
+    <website/>
+    <address_number>142</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Toots &amp; Magoo</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>142 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9133956</lat>
+      <lon>-79.054177</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2011-02-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-03-01 00:00:00</date_closed>
+    <years_in_business>1.16164383562</years_in_business>
+    <website/>
+    <address_number>403</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Industry</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>403 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114429</lat>
+      <lon>-79.0625272</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-03-30 00:00:00</date_closed>
+    <years_in_business>3.24383561644</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2016-04-11</date_updated>
+    <tenant_name>Kalimaki</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>45.0602739726</years_in_business>
+    <website/>
+    <address_number>173</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Ye Olde Waffle Shop</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>173 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.914286</lat>
+      <lon>-79.0534186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1972-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.15890410959</years_in_business>
+    <website/>
+    <address_number>145</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Insomnia Cookies</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>145 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139352</lat>
+      <lon>-79.054296</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-11-15</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business/>
+    <website/>
+    <address_number>406</address_number>
+    <date_updated>2016-04-20</date_updated>
+    <tenant_name>Grace Hair</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>406 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9116556</lat>
+      <lon>-79.0631153</lon>
+    </zipcode>
+    <independent_v_chain>Undetermined</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened/>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.61917808219</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>R &amp; R Grill</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2009-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-08-01 00:00:00</date_closed>
+    <years_in_business>33.602739726</years_in_business>
+    <website/>
+    <address_number>405</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Internationalist Books</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>405 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9109798</lat>
+      <lon>-79.0607288</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1981-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-05-17 00:00:00</date_closed>
+    <years_in_business>1.4575342465799999</years_in_business>
+    <website/>
+    <address_number>422</address_number>
+    <date_updated>2015-11-16</date_updated>
+    <tenant_name>Thrill City</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>422 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9112521</lat>
+      <lon>-79.0613756</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-12-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>80.0821917808</years_in_business>
+    <website/>
+    <address_number>120</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Walker&#x27;s Funeral Home</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>120 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131568</lat>
+      <lon>-79.0569646</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1937-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>8.61917808219</years_in_business>
+    <website/>
+    <address_number>107</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Buns</tenant_name>
+    <street_name>North Columbia Street</street_name>
+    <address>107 North Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9134418</lat>
+      <lon>-79.0562239</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2008-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-01-01 00:00:00</date_closed>
+    <years_in_business>10.0054794521</years_in_business>
+    <website/>
+    <address_number>200</address_number>
+    <date_updated>2015-07-17</date_updated>
+    <tenant_name>Aveda</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>200 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9123562</lat>
+      <lon>-79.0583233</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>61.0712328767</years_in_business>
+    <website/>
+    <address_number>342</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Tate Realty</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>342 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9119949</lat>
+      <lon>-79.0620644</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1956-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-03-19 00:00:00</date_closed>
+    <years_in_business>31.2328767123</years_in_business>
+    <website/>
+    <address_number>414</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Time After Time</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>414 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113572</lat>
+      <lon>-79.0611322</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1983-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-11-06 00:00:00</date_closed>
+    <years_in_business>1.68493150685</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2015-11-11</date_updated>
+    <tenant_name>H2Only Cleaners</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-08-01 00:00:00</date_closed>
+    <years_in_business>28.6</years_in_business>
+    <website/>
+    <address_number>108</address_number>
+    <date_updated>2015-07-17</date_updated>
+    <tenant_name>People&#x27;s Beauty</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>108 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.910557</lat>
+      <lon>-79.064251</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1986-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>39.0547945205</years_in_business>
+    <website/>
+    <address_number>201</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Time Out</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>201 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9145697</lat>
+      <lon>-79.0528396</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1978-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>108</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>Walgreen&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>108 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9130138</lat>
+      <lon>-79.0550829</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2013-06-18 00:00:00</date_closed>
+    <years_in_business>30.4821917808</years_in_business>
+    <website/>
+    <address_number>151</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Carolina Pride Sportswear</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>151 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139706</lat>
+      <lon>-79.0541075</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1983-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.0301369863</years_in_business>
+    <website/>
+    <address_number>306</address_number>
+    <date_updated>2015-12-11</date_updated>
+    <tenant_name>Toppers</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>103</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Starbucks</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>103 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9134416</lat>
+      <lon>-79.0555858</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business/>
+    <website/>
+    <address_number>206</address_number>
+    <date_updated>2016-12-07</date_updated>
+    <tenant_name>Might as Well Bar &amp; Grill</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>206 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9123709</lat>
+      <lon>-79.0588829</lon>
+    </zipcode>
+    <independent_v_chain>Undetermined</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened/>
+  </row>
+  <row>
+    <date_closed>2012-02-28 00:00:00</date_closed>
+    <years_in_business>19.1698630137</years_in_business>
+    <website/>
+    <address_number>163</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Franklin Street Pizza &amp; Pasta</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>163 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142612</lat>
+      <lon>-79.0537452</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1993-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>109</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>FRANK Gallery</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>109 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9136207</lat>
+      <lon>-79.0553921</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>25.0465753425</years_in_business>
+    <website/>
+    <address_number>210</address_number>
+    <date_updated>2015-12-11</date_updated>
+    <tenant_name>The Bicycle Chain</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>210 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9122102</lat>
+      <lon>-79.0592116</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1992-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>41.0575342466</years_in_business>
+    <website/>
+    <address_number>408</address_number>
+    <date_updated>2015-10-14</date_updated>
+    <tenant_name>Mama Dip&#x27;s</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>408 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9116242</lat>
+      <lon>-79.0634001</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1976-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.29589041096</years_in_business>
+    <website>www.alsburgershack.com</website>
+    <address_number>516</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Al&#x27;s Burger Shack</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>516 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9101427</lat>
+      <lon>-79.0640878</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-09-26</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.80273972603</years_in_business>
+    <website>www.trollystophotdogs.com</website>
+    <address_number>306</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Trolley Stop Hotdogs</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-03-25</date_opened>
+  </row>
+  <row>
+    <date_closed>2017-01-03 00:00:00</date_closed>
+    <years_in_business>5.04383561644</years_in_business>
+    <website/>
+    <address_number>105</address_number>
+    <date_updated>2017-01-04</date_updated>
+    <tenant_name>Sweet Frog Yogurt</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>105 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9135739</lat>
+      <lon>-79.055577</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2011-12-20</date_opened>
+  </row>
+  <row>
+    <date_closed>2010-11-01 00:00:00</date_closed>
+    <years_in_business>6.83835616438</years_in_business>
+    <website/>
+    <address_number>403</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Fuse</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>403 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114429</lat>
+      <lon>-79.0625272</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2004-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>6.61917808219</years_in_business>
+    <website>www.curryblossom.com</website>
+    <address_number>431</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Vimala&#x27;s Curryblossom Café</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2010-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.86849315068</years_in_business>
+    <website/>
+    <address_number>161</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Roots Bistro</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>161 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141728</lat>
+      <lon>-79.0538136</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.86849315068</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Jasmin Bistro</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>100 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132524</lat>
+      <lon>-79.0560806</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2015-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.2301369863</years_in_business>
+    <website/>
+    <address_number>108</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Baxter Arcade</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>108 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.910557</lat>
+      <lon>-79.064251</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-10-20</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>31.0493150685</years_in_business>
+    <website/>
+    <address_number>136</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Glenn&#x27;s Tailor Shop</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>136 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9143164</lat>
+      <lon>-79.0548735</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1986-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-02-15 00:00:00</date_closed>
+    <years_in_business>13.1315068493</years_in_business>
+    <website/>
+    <address_number>220</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>Los Potrillos</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>220 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9134516</lat>
+      <lon>-79.0585704</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2003-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>41.0575342466</years_in_business>
+    <website/>
+    <address_number>202</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>La Residence</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>202 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9137366</lat>
+      <lon>-79.0579075</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1976-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2011-03-01 00:00:00</date_closed>
+    <years_in_business>11.1698630137</years_in_business>
+    <website/>
+    <address_number>119</address_number>
+    <date_updated>2015-09-22</date_updated>
+    <tenant_name>Tar Heel Bookstore</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>119 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9137359</lat>
+      <lon>-79.0551138</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2008-01-01 00:00:00</date_closed>
+    <years_in_business>7.00273972603</years_in_business>
+    <website/>
+    <address_number>407</address_number>
+    <date_updated>2016-04-22</date_updated>
+    <tenant_name>Patio Loco</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>407 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108233</lat>
+      <lon>-79.060804</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2001-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>14.0383561644</years_in_business>
+    <website/>
+    <address_number>131</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Cold Stone</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>131 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9138158</lat>
+      <lon>-79.0548097</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2003-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>32.0493150685</years_in_business>
+    <website/>
+    <address_number>121</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Lightyears</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>121 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9138469</lat>
+      <lon>-79.055016</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1985-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-12-30 00:00:00</date_closed>
+    <years_in_business>11</years_in_business>
+    <website/>
+    <address_number>122</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Subway Sandwiches</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>122 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131573</lat>
+      <lon>-79.0547841</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>28.0465753425</years_in_business>
+    <website/>
+    <address_number>119</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Chapel Hill Sportswear</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>119 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9137359</lat>
+      <lon>-79.0551138</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1989-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.0301369863</years_in_business>
+    <website/>
+    <address_number>414</address_number>
+    <date_updated>2015-07-29</date_updated>
+    <tenant_name>Mediterranean Market</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>414 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113572</lat>
+      <lon>-79.0611322</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Grocery</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>24.0438356164</years_in_business>
+    <website>www.local506.com</website>
+    <address_number>506</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Local 506</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>506 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9102202</lat>
+      <lon>-79.0638381</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1993-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>6.03287671233</years_in_business>
+    <website/>
+    <address_number>342</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>Legacy Cutz</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>342 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9119949</lat>
+      <lon>-79.0620644</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>51.0630136986</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2016-06-21</date_updated>
+    <tenant_name>Inter Faith Council Homeless Shelter</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>100 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141495</lat>
+      <lon>-79.056617</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1966-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>39.0547945205</years_in_business>
+    <website/>
+    <address_number>117</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Creative Metalsmith Jewelry</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>117 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9136296</lat>
+      <lon>-79.0552173</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1978-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>71.0767123288</years_in_business>
+    <website/>
+    <address_number>124</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>University Florist and Gift Shop</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>124 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131868</lat>
+      <lon>-79.0547046</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1946-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.80273972603</years_in_business>
+    <website>www.kiposchapelhill.com</website>
+    <address_number>431</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Kipos Greek Taverna</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-03-25</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-08-01 00:00:00</date_closed>
+    <years_in_business>6.58630136986</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2016-11-07</date_updated>
+    <tenant_name>Expressions</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>25.0465753425</years_in_business>
+    <website/>
+    <address_number>114</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>FedEX Kinko&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>114 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9131126</lat>
+      <lon>-79.0567636</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1992-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-03-30 00:00:00</date_closed>
+    <years_in_business>1.24383561644</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2016-04-11</date_updated>
+    <tenant_name>Ashley Clarke Designs</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>14.0383561644</years_in_business>
+    <website/>
+    <address_number>405</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Nightlight</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>405 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.911377</lat>
+      <lon>-79.062645</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2003-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.0301369863</years_in_business>
+    <website/>
+    <address_number>406</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Hair Expressions</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>406 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9116556</lat>
+      <lon>-79.0631153</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>12.0356164384</years_in_business>
+    <website/>
+    <address_number>407</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Sandwhich</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>407 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9108233</lat>
+      <lon>-79.060804</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>12.0356164384</years_in_business>
+    <website/>
+    <address_number>450.5</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>The Cellar</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>450.5 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9105991</lat>
+      <lon>-79.0623407</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2013-03-04 00:00:00</date_closed>
+    <years_in_business>26.1890410959</years_in_business>
+    <website/>
+    <address_number>107</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Pepper&#x27;s Pizza</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>107 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9135933</lat>
+      <lon>-79.055474</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1987-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2016-04-19</date_updated>
+    <tenant_name>Back Bar @ Top of the Hill</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>100 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9129612</lat>
+      <lon>-79.0553089</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>14.7917808219</years_in_business>
+    <website/>
+    <address_number>213</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Panera Bread Company</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>213 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113948</lat>
+      <lon>-79.0589906</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2002-04-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>5.03287671233</years_in_business>
+    <website/>
+    <address_number>508</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Guru India</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>508 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9102414</lat>
+      <lon>-79.064002</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2012-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.0301369863</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Spicy Nine Sushi</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-11-24 00:00:00</date_closed>
+    <years_in_business>16.9095890411</years_in_business>
+    <website/>
+    <address_number>205</address_number>
+    <date_updated>2016-11-29</date_updated>
+    <tenant_name>McAlister&#x27;s Deli</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>205 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9146155</lat>
+      <lon>-79.0526751</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.56164383562</years_in_business>
+    <website/>
+    <address_number>163</address_number>
+    <date_updated>2015-10-14</date_updated>
+    <tenant_name>Ms Mong</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>163 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142612</lat>
+      <lon>-79.0537452</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-06-21</date_opened>
+  </row>
+  <row>
+    <date_closed>2011-01-19 00:00:00</date_closed>
+    <years_in_business>3.05205479452</years_in_business>
+    <website/>
+    <address_number>406</address_number>
+    <date_updated>2015-09-22</date_updated>
+    <tenant_name>Limelight</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>406 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114373</lat>
+      <lon>-79.060897</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2008-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>7.03287671233</years_in_business>
+    <website/>
+    <address_number>400</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Chapel Hill Training</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>400 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9118459</lat>
+      <lon>-79.0627142</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2010-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.0438356164</years_in_business>
+    <website/>
+    <address_number>460</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Carolina Brewery</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>460 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9107329</lat>
+      <lon>-79.0628042</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>19.0410958904</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>EyeCareCenter</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1998-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>27.0465753425</years_in_business>
+    <website/>
+    <address_number>144</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Bank of America</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>144 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9134384</lat>
+      <lon>-79.054073</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1990-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-06-01 00:00:00</date_closed>
+    <years_in_business>1.88493150685</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2016-06-20</date_updated>
+    <tenant_name>Sophie and Mollies Boutique</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-07-14</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>16.0383561644</years_in_business>
+    <website/>
+    <address_number>405.75</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Hazmat</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>405.75 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9109798</lat>
+      <lon>-79.0607288</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2001-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.0301369863</years_in_business>
+    <website/>
+    <address_number>101</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>PNC Bank</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>101 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9143451</lat>
+      <lon>-79.0560516</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.0301369863</years_in_business>
+    <website>franklinstreetmotors.com</website>
+    <address_number>601</address_number>
+    <date_updated>2016-06-21</date_updated>
+    <tenant_name>Franklin Street Motors</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>601 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9094661</lat>
+      <lon>-79.064214</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-11-30 00:00:00</date_closed>
+    <years_in_business>11.9205479452</years_in_business>
+    <website/>
+    <address_number>115</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Pita Pit</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>115 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.91362</lat>
+      <lon>-79.0552405</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2003-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>18.0410958904</years_in_business>
+    <website/>
+    <address_number>128</address_number>
+    <date_updated>2015-10-14</date_updated>
+    <tenant_name>Cosmic Cantina</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>128 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132267</lat>
+      <lon>-79.0545808</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1999-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>33.0520547945</years_in_business>
+    <website/>
+    <address_number>409</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>McDonald&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>409 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9107829</lat>
+      <lon>-79.0611589</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1984-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2007-06-01 00:00:00</date_closed>
+    <years_in_business>3.41643835616</years_in_business>
+    <website/>
+    <address_number>107</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Jersey Mike&#x27;s</tenant_name>
+    <street_name>North Columbia Street</street_name>
+    <address>107 North Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9134418</lat>
+      <lon>-79.0562239</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2004-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.61643835616</years_in_business>
+    <website/>
+    <address_number>157</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Country Fried Duck</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>157 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9152247</lat>
+      <lon>-79.0540321</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>38.0547945205</years_in_business>
+    <website/>
+    <address_number>400</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>The Bookshop</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>400 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9115454</lat>
+      <lon>-79.0608542</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1979-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.3534246575299997</years_in_business>
+    <website/>
+    <address_number>106</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Rumors</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>106 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9105474</lat>
+      <lon>-79.0642914</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-09-05</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-08-01 00:00:00</date_closed>
+    <years_in_business>0.832876712329</years_in_business>
+    <website/>
+    <address_number>201</address_number>
+    <date_updated>2016-11-29</date_updated>
+    <tenant_name>Logan&#x27;s Pub &amp; Billiards</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>201 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9145697</lat>
+      <lon>-79.0528396</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-10-02</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>13.0383561644</years_in_business>
+    <website/>
+    <address_number>105</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Kurama Sushi &amp; Noodle Express</tenant_name>
+    <street_name>North Columbia Street</street_name>
+    <address>105 North Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9134194</lat>
+      <lon>-79.0561536</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2004-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-12-01 00:00:00</date_closed>
+    <years_in_business>0.915068493151</years_in_business>
+    <website/>
+    <address_number>115</address_number>
+    <date_updated>2015-09-03</date_updated>
+    <tenant_name>Campus Calzones</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>115 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.91362</lat>
+      <lon>-79.0552405</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-08-01 00:00:00</date_closed>
+    <years_in_business>5.5835616438399995</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Gamestop</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>100 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9129612</lat>
+      <lon>-79.0553089</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2009-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>75.0794520548</years_in_business>
+    <website/>
+    <address_number>135</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>Julian&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>135 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913906</lat>
+      <lon>-79.054697</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1942-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-06-10 00:00:00</date_closed>
+    <years_in_business>1.82739726027</years_in_business>
+    <website/>
+    <address_number>306</address_number>
+    <date_updated>2016-06-20</date_updated>
+    <tenant_name>Chapel Hill Fan Shop</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-08-13</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.0301369863</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Arnold McClain Periodontology</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>25.0465753425</years_in_business>
+    <website/>
+    <address_number>410</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Mediterranean Deli</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>410 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114715</lat>
+      <lon>-79.0610663</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1992-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.2821917808199998</years_in_business>
+    <website>www.sawasdeechapelhill.com</website>
+    <address_number>110</address_number>
+    <date_updated>2015-12-18</date_updated>
+    <tenant_name>Sawasdee Thai Restaurant</tenant_name>
+    <street_name>North Columbia Street</street_name>
+    <address>110 North Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913643</lat>
+      <lon>-79.0557404</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-10-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-03-01 00:00:00</date_closed>
+    <years_in_business>24.1808219178</years_in_business>
+    <website/>
+    <address_number>111</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>Ms Molly&#x27;s Gift Shop</tenant_name>
+    <street_name>South Merritt Mill Road</street_name>
+    <address>111 South Merritt Mill Road</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9087894</lat>
+      <lon>-79.0644874</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1992-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>62.0712328767</years_in_business>
+    <website/>
+    <address_number>123</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Varsity Theatre</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>123 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913835</lat>
+      <lon>-79.0550047</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1955-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.19726027397</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Studio Design Gallery</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-11-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.70136986301</years_in_business>
+    <website>www.dsicomedythetater.com</website>
+    <address_number>462</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>DSI Comedy</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>462 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9107085</lat>
+      <lon>-79.0629318</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-05-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2012-10-09 00:00:00</date_closed>
+    <years_in_business>7.76438356164</years_in_business>
+    <website/>
+    <address_number>161</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Jack Sprat</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>161 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141728</lat>
+      <lon>-79.0538136</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2005-01-05</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-04-30 00:00:00</date_closed>
+    <years_in_business>6.32876712329</years_in_business>
+    <website/>
+    <address_number>109</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Clothing Warehouse</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>109 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9136207</lat>
+      <lon>-79.0553921</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2009-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>50.0630136986</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Chapel Hill Barber Shop</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1967-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>3.86849315068</years_in_business>
+    <website/>
+    <address_number>310</address_number>
+    <date_updated>2015-12-11</date_updated>
+    <tenant_name>Mellow Mushroom</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>310 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9115797</lat>
+      <lon>-79.0605167</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2013-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>406</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>d.b. Sutton</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>406 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114373</lat>
+      <lon>-79.060897</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-12-30 00:00:00</date_closed>
+    <years_in_business>1.4136986301399999</years_in_business>
+    <website/>
+    <address_number>163</address_number>
+    <date_updated>2015-09-03</date_updated>
+    <tenant_name>Chopsticks &amp; More</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>163 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142612</lat>
+      <lon>-79.0537452</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-08-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-08-24 00:00:00</date_closed>
+    <years_in_business>14.6520547945</years_in_business>
+    <website/>
+    <address_number>110</address_number>
+    <date_updated>2015-08-25</date_updated>
+    <tenant_name>Sakura Express</tenant_name>
+    <street_name>North Columbia Street</street_name>
+    <address>110 North Columbia Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913643</lat>
+      <lon>-79.0557404</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2001-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>8.53698630137</years_in_business>
+    <website/>
+    <address_number>214</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Noodles &amp; Co</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>214 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9119875</lat>
+      <lon>-79.0594893</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2008-07-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>40.0547945205</years_in_business>
+    <website/>
+    <address_number>101</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Spanky&#x27;s</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>101 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913469</lat>
+      <lon>-79.05567</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1977-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>13.0383561644</years_in_business>
+    <website/>
+    <address_number>306</address_number>
+    <date_updated>2015-07-17</date_updated>
+    <tenant_name>Nail Trix</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>306 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912013</lat>
+      <lon>-79.0600363</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2004-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-06-01 00:00:00</date_closed>
+    <years_in_business>1.25205479452</years_in_business>
+    <website/>
+    <address_number>140</address_number>
+    <date_updated>2015-09-03</date_updated>
+    <tenant_name>Gigi&#x27;s Cupcakes</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>140 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.912793</lat>
+      <lon>-79.0575945</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2013-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>0.191780821918</years_in_business>
+    <website/>
+    <address_number>431</address_number>
+    <date_updated>2016-11-21</date_updated>
+    <tenant_name>Something Different Cafe</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>431 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9100322</lat>
+      <lon>-79.0628443</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-11-02</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>6.03287671233</years_in_business>
+    <website/>
+    <address_number>167</address_number>
+    <date_updated>2016-04-20</date_updated>
+    <tenant_name>Franklin Street Market</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>167 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.914332</lat>
+      <lon>-79.053625</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2011-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>607</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Jiffy Lube</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>607 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9094771</lat>
+      <lon>-79.0645499</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2013-01-01 00:00:00</date_closed>
+    <years_in_business>2.00273972603</years_in_business>
+    <website/>
+    <address_number>109</address_number>
+    <date_updated>2016-04-20</date_updated>
+    <tenant_name>At Last Salon and Spa</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>109 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9102049</lat>
+      <lon>-79.0647099</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>5.11780821918</years_in_business>
+    <website>www.cholanad.com</website>
+    <address_number>308</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Cholanad Restaurant</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>308 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9117474</lat>
+      <lon>-79.0601652</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2011-12-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2008-12-01 00:00:00</date_closed>
+    <years_in_business>11.9232876712</years_in_business>
+    <website/>
+    <address_number>157.5</address_number>
+    <date_updated>2015-07-28</date_updated>
+    <tenant_name>Hell</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>157.5 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9152247</lat>
+      <lon>-79.0540321</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1997-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.0301369863</years_in_business>
+    <website/>
+    <address_number>505</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>Midway Community Kitchen</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>505 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9109871</lat>
+      <lon>-79.0645924</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.37534246575</years_in_business>
+    <website/>
+    <address_number>143</address_number>
+    <date_updated>2015-12-18</date_updated>
+    <tenant_name>Shanghai Dumplings</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>143 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139627</lat>
+      <lon>-79.0543046</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2015-08-28</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>12.0356164384</years_in_business>
+    <website/>
+    <address_number>137</address_number>
+    <date_updated>2015-07-22</date_updated>
+    <tenant_name>Precise Cutz &amp; Styles</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>137 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139617</lat>
+      <lon>-79.0545033</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>44.2246575342</years_in_business>
+    <website/>
+    <address_number>112.5</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>He&#x27;s Not Here</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>112.5 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9128444</lat>
+      <lon>-79.05655</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1972-11-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.21369863014</years_in_business>
+    <website/>
+    <address_number>419</address_number>
+    <date_updated>2015-11-24</date_updated>
+    <tenant_name>Carolina Ale House</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>419 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9104767</lat>
+      <lon>-79.0620511</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-10-26</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>94.0931506849</years_in_business>
+    <website/>
+    <address_number>159</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Sutton&#x27;s Drug Store</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>159 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141513</lat>
+      <lon>-79.0538817</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1923-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>41.0575342466</years_in_business>
+    <website/>
+    <address_number>203</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Linda&#x27;s Bar &amp; Grill</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>203 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9145561</lat>
+      <lon>-79.0527465</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1976-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>18.0410958904</years_in_business>
+    <website/>
+    <address_number>454</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Elaine&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>454 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.910804</lat>
+      <lon>-79.062627</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1999-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>12.0356164384</years_in_business>
+    <website/>
+    <address_number>125</address_number>
+    <date_updated>2016-03-30</date_updated>
+    <tenant_name>Blue Horn Lounge</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>125 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9137288</lat>
+      <lon>-79.0549214</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>68.0739726027</years_in_business>
+    <website/>
+    <address_number>250</address_number>
+    <date_updated>2016-01-20</date_updated>
+    <tenant_name>Morehead Planetarium</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>250 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9139033</lat>
+      <lon>-79.05051</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Cultural Destination</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1949-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2015-06-01 00:00:00</date_closed>
+    <years_in_business>5.00273972603</years_in_business>
+    <website/>
+    <address_number>157</address_number>
+    <date_updated>2015-09-08</date_updated>
+    <tenant_name>Krispy Kreme</tenant_name>
+    <street_name>East Franklin street</street_name>
+    <address>157 East Franklin street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141034</lat>
+      <lon>-79.0540341</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2010-06-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.44931506849</years_in_business>
+    <website/>
+    <address_number>114</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>TRU Deli + Wine</tenant_name>
+    <street_name>Henderson Street</street_name>
+    <address>114 Henderson Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9151581</lat>
+      <lon>-79.0531202</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-08-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>17.0410958904</years_in_business>
+    <website/>
+    <address_number>503</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Orange County Job Skills Center</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>503 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.909628</lat>
+      <lon>-79.063404</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2000-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>34.0520547945</years_in_business>
+    <website/>
+    <address_number>300</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Pantana Bob&#x27;s</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>300 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.913161</lat>
+      <lon>-79.0589408</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>1983-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>22.0438356164</years_in_business>
+    <website/>
+    <address_number>175</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Four Corners</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>175 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9143115</lat>
+      <lon>-79.0533495</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>4.0301369863</years_in_business>
+    <website/>
+    <address_number>157.5</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Wesley Campus Ministry</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>157.5 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141034</lat>
+      <lon>-79.0540341</lon>
+    </zipcode>
+    <independent_v_chain>Undetermined</independent_v_chain>
+    <category_of_use>Church</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>10.2630136986</years_in_business>
+    <website/>
+    <address_number>161.5</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Joe&#x27;s Joint</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>161.5 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141728</lat>
+      <lon>-79.0538136</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2006-10-10</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>18.0410958904</years_in_business>
+    <website/>
+    <address_number>407</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>La Potosina Mexican Tienda</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>407 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9113021</lat>
+      <lon>-79.0627764</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Grocery</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1999-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>1.78356164384</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-03-15</date_updated>
+    <tenant_name>Triangle Cellular Repair</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2015-04-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-01-01 00:00:00</date_closed>
+    <years_in_business>7.00273972603</years_in_business>
+    <website/>
+    <address_number>111</address_number>
+    <date_updated>2016-04-29</date_updated>
+    <tenant_name>Delaine&#x27;s House of Beauty</tenant_name>
+    <street_name>North Graham Street</street_name>
+    <address>111 North Graham Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9103483</lat>
+      <lon>-79.064619</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2009-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>10.1205479452</years_in_business>
+    <website>www.franklinhotelnc.com</website>
+    <address_number>311</address_number>
+    <date_updated>2015-12-18</date_updated>
+    <tenant_name>Robert&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>311 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9111177</lat>
+      <lon>-79.0601279</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2006-12-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>12.0356164384</years_in_business>
+    <website/>
+    <address_number>200</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Lime &amp; Basil</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>200 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9123562</lat>
+      <lon>-79.0583233</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>Central</downtown_district>
+    <date_opened>2005-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>38.0547945205</years_in_business>
+    <website/>
+    <address_number>143</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>BB&amp;T</tenant_name>
+    <street_name>East Rosemary Street</street_name>
+    <address>143 East Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9149792</lat>
+      <lon>-79.05466</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1979-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2013-10-06 00:00:00</date_closed>
+    <years_in_business>1.35616438356</years_in_business>
+    <website/>
+    <address_number>169</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Hotdogs and Brew</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>169 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9142821</lat>
+      <lon>-79.0535403</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2012-05-29</date_opened>
+  </row>
+  <row>
+    <date_closed>2012-05-01 00:00:00</date_closed>
+    <years_in_business>14.3397260274</years_in_business>
+    <website/>
+    <address_number>421</address_number>
+    <date_updated>2016-03-18</date_updated>
+    <tenant_name>Studio Supply</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>421 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.910443</lat>
+      <lon>-79.062233</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1998-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>13.0383561644</years_in_business>
+    <website/>
+    <address_number>456</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Talulla&#x27;s</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>456 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9107663</lat>
+      <lon>-79.06271</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2004-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>43.0575342466</years_in_business>
+    <website/>
+    <address_number>324</address_number>
+    <date_updated>2015-10-14</date_updated>
+    <tenant_name>Breadmen&#x27;s</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>324 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9125168</lat>
+      <lon>-79.0610477</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1974-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>35.0520547945</years_in_business>
+    <website/>
+    <address_number>128</address_number>
+    <date_updated>2015-07-17</date_updated>
+    <tenant_name>Salon 135</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>128 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9132267</lat>
+      <lon>-79.0545808</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1982-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>27.0465753425</years_in_business>
+    <website>www.chapelhillcomics.com</website>
+    <address_number>316</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Chapel Hill Comics</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>316 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9115378</lat>
+      <lon>-79.0606062</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1990-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>2.92876712329</years_in_business>
+    <website/>
+    <address_number>318</address_number>
+    <date_updated>2015-11-06</date_updated>
+    <tenant_name>Bluetique</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>318 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9115179</lat>
+      <lon>-79.0606675</lon>
+    </zipcode>
+    <independent_v_chain>Chain</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2014-02-07</date_opened>
+  </row>
+  <row>
+    <date_closed>2016-08-01 00:00:00</date_closed>
+    <years_in_business>0.419178082192</years_in_business>
+    <website/>
+    <address_number>601</address_number>
+    <date_updated>2016-09-19</date_updated>
+    <tenant_name>Next Door Cleaners</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>601 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9106835</lat>
+      <lon>-79.065186</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2016-03-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>43.0575342466</years_in_business>
+    <website/>
+    <address_number>111</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Walt&#x27;s Grill</tenant_name>
+    <street_name>South Merritt Mill Road</street_name>
+    <address>111 South Merritt Mill Road</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9087894</lat>
+      <lon>-79.0644874</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Restaurant</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1974-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-01-01 00:00:00</date_closed>
+    <years_in_business>1</years_in_business>
+    <website/>
+    <address_number>157.5</address_number>
+    <date_updated>2016-03-01</date_updated>
+    <tenant_name>Ply</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>157.5 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141034</lat>
+      <lon>-79.0540341</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Service</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2013-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed>2014-11-01 00:00:00</date_closed>
+    <years_in_business>19.8465753425</years_in_business>
+    <website/>
+    <address_number>159</address_number>
+    <date_updated>2015-08-12</date_updated>
+    <tenant_name>Players</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>159 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9141513</lat>
+      <lon>-79.0538817</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>1995-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>5.70410958904</years_in_business>
+    <website/>
+    <address_number>100</address_number>
+    <date_updated>2016-02-04</date_updated>
+    <tenant_name>Ackland Museum Store</tenant_name>
+    <street_name>East Franklin Street</street_name>
+    <address>100 East Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9129612</lat>
+      <lon>-79.0553089</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Retail</category_of_use>
+    <downtown_district>East</downtown_district>
+    <date_opened>2011-05-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>29.0493150685</years_in_business>
+    <website/>
+    <address_number>325</address_number>
+    <date_updated>2016-01-07</date_updated>
+    <tenant_name>Key Food Mart</tenant_name>
+    <street_name>West Rosemary Street</street_name>
+    <address>325 West Rosemary Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9120781</lat>
+      <lon>-79.0604977</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Grocery</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>1988-01-01</date_opened>
+  </row>
+  <row>
+    <date_closed/>
+    <years_in_business>9.03561643836</years_in_business>
+    <website/>
+    <address_number>320</address_number>
+    <date_updated>2016-09-07</date_updated>
+    <tenant_name>The Crunkleton</tenant_name>
+    <street_name>West Franklin Street</street_name>
+    <address>320 West Franklin Street</address>
+    <naics_code/>
+    <zipcode>
+      <lat>35.9114965</lat>
+      <lon>-79.0607226</lon>
+    </zipcode>
+    <independent_v_chain>Independent</independent_v_chain>
+    <category_of_use>Bar</category_of_use>
+    <downtown_district>West</downtown_district>
+    <date_opened>2008-01-01</date_opened>
+  </row>
+</root>
