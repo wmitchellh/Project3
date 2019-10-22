@@ -1,5 +1,58 @@
 /* styles */
-#column-chart {
-  height: 500px;
-  width: auto;
+#table {
+  background-color: gray;
+  width: 500px;
+}
+
+.bar{
+  fill: gray;
+}
+
+.bar:hover{
+  fill: yellow;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path{
+  fill: none;
+  stroke: #000;
+  stroke-width: 2px;
+  shape-rendering: crispEdges;
+}
+.axis line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1px;
+  shape-rendering: crispEdges;
+}
+
+header {
+  background-color: yellow;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+@font-face {
+   font-family: myFirstFont;
+   src: url(nouvelle_vague_final.ttf);
+}
+
+* {
+   font-family: myFirstFont;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: serif;
+  margin-left: 30px;
+  margin-right: 30px;
+  text-align:center;
 }
