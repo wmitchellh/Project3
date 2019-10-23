@@ -71,6 +71,27 @@ h4 {
   margin-right: 30px;
 }
 
+h5 {
+  color: #58585a;
+  font-size: 16pt;
+  font-family: serif;
+  text-align: center;
+}
+
+h6 {
+  color: #58585a;
+  font-size: 10pt;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+footer {
+  background-color: #aaaaaa;
+  border-top-style: solid;
+  border-top-width: thick;
+  border-top-color: #fef200;
+}
+
 #text {
   align-items: left;
 }

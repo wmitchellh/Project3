@@ -38,18 +38,18 @@ var chart = c3.generate({
     }
 });
 
-// set the dimensions of the canvas
-var margin = {top: 40, right: 20, bottom: 300, left: 400},
-    width = 1100 - margin.left - margin.right,
+//sizing
+var margin = {top: 40, right: 20, bottom: 300, left: 50},
+    width = 800 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 
-// set the ranges
+//ranges
 var x = d3.scale.ordinal().rangeRoundBands([0, width], .05);
 
 var y = d3.scale.linear().range([height, 0]);
 
-// define the axis
+// axes
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom")
@@ -61,7 +61,7 @@ var yAxis = d3.svg.axis()
     .ticks(10);
 
 
-// add the SVG element
+//
 var svg = d3.select("body").append("svg")
     .attr("width", width + margin.left + margin.right)
     .attr("height", height + margin.top + margin.bottom)
@@ -70,7 +70,7 @@ var svg = d3.select("body").append("svg")
           "translate(" + margin.left + "," + margin.top + ")");
 
 
-// load the data
+//json
 d3.json("years.json", function(error, data) {
 
     data.forEach(function(d) {
@@ -78,11 +78,11 @@ d3.json("years.json", function(error, data) {
         d.years_in_business = +d.years_in_business;
     });
 
-  // scale the range of the data
+  // ranges
   x.domain(data.map(function(d) { return d.tenant_name; }));
   y.domain([0, d3.max(data, function(d) { return d.years_in_business; })]);
 
-  // add axis
+  // axes
   svg.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
@@ -102,8 +102,7 @@ d3.json("years.json", function(error, data) {
       .attr("dy", ".71em")
       .style("text-anchor", "end");
 
-
-  // Add bar chart
+//bars
   svg.selectAll("bar")
       .data(data)
     .enter().append("rect")
