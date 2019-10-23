@@ -14,9 +14,33 @@ $(document).ready(function(){
 
 });
 
+
+var chart = c3.generate({
+    bindto: '#donut',
+    data: {
+        columns: [
+            ['Central', 36],
+            ['East', 107],
+            ['West', 119]
+        ],
+        type : 'donut',
+        colors: {
+          Central: '#000',
+          East: '#13294B',
+          West: '#7BAFD4'
+        },
+        onclick: function (d, i) { console.log("onclick", d, i); },
+        onmouseover: function (d, i) { console.log("onmouseover", d, i); },
+        onmouseout: function (d, i) { console.log("onmouseout", d, i); }
+    },
+    donut: {
+        title: "Tenants per District"
+    }
+});
+
 // set the dimensions of the canvas
-var margin = {top: 40, right: 20, bottom: 200, left: 200},
-    width = 800 - margin.left - margin.right,
+var margin = {top: 40, right: 20, bottom: 300, left: 400},
+    width = 1100 - margin.left - margin.right,
     height = 600 - margin.top - margin.bottom;
 
 
@@ -76,8 +100,7 @@ d3.json("years.json", function(error, data) {
       .attr("transform", "rotate(-90)")
       .attr("y", 5)
       .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Years in Business");
+      .style("text-anchor", "end");
 
 
   // Add bar chart

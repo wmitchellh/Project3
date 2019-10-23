@@ -1,19 +1,18 @@
 /* styles */
 #table {
-  background-color: gray;
-  width: 500px;
+  background-color: #aaaaaa;
 }
 
 .bar{
-  fill: gray;
+  fill: #58585a;
 }
 
 .bar:hover{
-  fill: yellow;
+  fill: #fef200;
 }
 
 .axis {
-  font: 10px sans-serif;
+  font: 15px sans-serif;
 }
 
 .axis path{
@@ -30,29 +29,52 @@
 }
 
 header {
-  background-color: yellow;
+  background-color: #fef200;
   text-align: center;
   padding-top: 10px;
   padding-bottom: 5px;
-  margin-bottom: 10px;
-}
-
-@font-face {
-   font-family: myFirstFont;
-   src: url(nouvelle_vague_final.ttf);
-}
-
-* {
-   font-family: myFirstFont;
+  margin-bottom: 35px;
 }
 
 p {
   font-family: sans-serif;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
 }
 
 h1 {
-  font-family: serif;
+  font-family: sans-serif;
   margin-left: 30px;
   margin-right: 30px;
-  text-align:center;
+  text-align:left;
+  color: #58585a;
+}
+
+h2 {
+  font-family: serif;
+  color: #58585a;
+}
+
+h3 {
+  color: #aaaaaa;
+  text-align: left;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+h4 {
+  color: #aaaaaa;
+  font-size: 12pt;
+  text-align: left;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#text {
+  align-items: left;
+}
+
+.row {
+  text-align: left;
 }
